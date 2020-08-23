@@ -74,5 +74,3 @@ env = Environment(loader=FileSystemLoader('views'))
 
 template = env.get_template('index.html')
 template.stream(data=data, sem=SEM, updated=pendulum.now().format("dddd, DD. MMMM YYYY HH:mm:ss")).dump('public/index.html')
-
-sleep(1e6)

@@ -19,8 +19,8 @@
     <div class="container">
         <h2 class="subtitle">{{ category }}</h2>
         {% for lva in items %}
-        <div class="box">
-            <div class="columns is-mobile">
+        <div class="box is-hidden-touch">
+            <div class="columns">
                 <div class="column is-narrow">
                     {% if lva['kind'] == 'VO' %}
                     <span class="tag is-danger">{{ lva['kind'] }}</span>
@@ -40,6 +40,39 @@
                 </div>
                 <div class="column is-narrow">
                     <span class="tag is-dark">{{ lva['ects'] }}</span>
+                </div>
+            </div>
+        </div>
+        <div class="box is-hidden-desktop">
+            <div class="columns is-mobile">
+                <div class="column is-narrow">
+                    <div class="columns">
+                        <div class="column is-vcentered">
+                        {% if lva['kind'] == 'VO' %}
+                        <span class="tag is-danger" style="min-width: 36px;">{{ lva['kind'] }}</span>
+                        {% elif lva['kind'] == 'VU' %}
+                        <span class="tag is-success" style="min-width: 36px;">{{ lva['kind'] }}</span>
+                        {% elif lva['kind'] == 'UE' %}
+                        <span class="tag is-info" style="min-width: 36px;">{{ lva['kind'] }}</span>
+                        {% else %}
+                        <span class="tag" style="min-width: 36px;">{{ lva['kind'] }}</span>
+                        {% endif %}
+                        </div>
+                        <div class="column is-vcentered" style="padding-top: 4px;">
+                            <span class="tag is-dark" style="min-width: 36px;">{{ lva['ects'] }}</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="column">
+                    <div class="columns">
+                        <div class="column" style="padding-bottom: 0px;">
+                            {{ lva['sem'] }}
+                        </div>
+                        <div class="column" style="padding-top: 0px;">
+                            <a href="https://tiss.tuwien.ac.at{{ lva['link'] }}" target="_blank">{{ lva['title'] }}</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

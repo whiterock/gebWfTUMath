@@ -10,6 +10,8 @@ selenium = "*"
 chromedriver-py = "==84.0.4147.30"
 cssselect = "*"
 lxml = "*"
+jinja2 = "*"
+pendulum = "*"
 
 [requires]
 python_version = "3.8"

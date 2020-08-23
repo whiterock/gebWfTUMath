@@ -7,6 +7,9 @@ from atexit import register
 from time import sleep
 from lxml.html import fromstring
 from collections import defaultdict
+from jinja2 import Environment, FileSystemLoader
+import pendulum
+pendulum.set_locale('de')
 
 
 SEM = "2020W"
@@ -35,7 +38,7 @@ current_subject = ""
 for row in soup.cssselect("tr"):
     cells = row.cssselect("td")
     classes = cells[0].cssselect("div")[0].get("class")
-    if "nodeTable-level-2" in classes and cells[0].cssselect("div > span.bold"):
+    if "nodeTable-level-1" in classes and cells[0].cssselect("div > span.bold"):
         current_subject = cells[0].text_content().strip()
         print(f"\n{current_subject}")
         print("-"*128)
@@ -44,14 +47,23 @@ for row in soup.cssselect("tr"):
         if links:
             cnum, kind, sem, title = collapse_whitespace(cells[0].text_content().strip().replace("\n", " ")).split(maxsplit=3)
             assert sem == SEM
-            print(cnum, "    ", kind, " hugo ", title, links[0].get("href"))
+            link = links[0].get("href")
+            assert link[0] == '/'
+            print(cnum, "    ", kind, " hugo ", title, link)
             data[current_subject].append({
                 'cnum': cnum,
                 'kind': kind,
                 'title': title,
-                'link': links[0].get("href")
+                'link': link,
+                'ects': cells[3].text_content()
             })
         else:
             raise ValueError("No link for", cells[0].text_content())
+
+
+env = Environment(loader=FileSystemLoader('views'))
+
+template = env.get_template('index.html')
+template.stream(data=data, sem=SEM, updated=pendulum.now().format("dddd, DD. MMMM YYYY HH:mm:ss")).dump('public/index.html')
 
 sleep(1e6)

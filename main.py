@@ -4,10 +4,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from chromedriver_py import binary_path
 from atexit import register
-from time import sleep
 from lxml.html import fromstring
 from collections import defaultdict
-from jinja2 import Environment, FileSystemLoader
+from json import dump
 import pendulum
 pendulum.set_locale('de')
 
@@ -69,8 +68,9 @@ for semester in semesters:
             else:
                 raise ValueError("No link for", cells[0].text_content())
 
-
-env = Environment(loader=FileSystemLoader('views'))
-
-template = env.get_template('index.html')
-template.stream(data=data, sem=SEM, updated=pendulum.now().format("dddd, DD. MMMM YYYY HH:mm:ss")).dump('public/index.html')
+with open("public/data.json", "w") as f:
+    dump({
+        'data': data,
+        'sem': SEM,
+        'updated': pendulum.now().format("dddd, DD. MMMM YYYY HH:mm:ss")
+    }, f)

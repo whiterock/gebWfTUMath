@@ -68,9 +68,11 @@ for semester in semesters:
             else:
                 raise ValueError("No link for", cells[0].text_content())
 
+    assert len(data) > 0
+
 with open("public/data.json", "w") as f:
     dump({
         'data': data,
-        'sem': SEM,
+        'sem': semesters,
         'updated': pendulum.now().format("dddd, DD. MMMM YYYY HH:mm:ss")
     }, f)

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Katalog Gebundene Wahlfächer - Technische Mathematik ({{ sem }})</title>
+    <title>Katalog Gebundene Wahlfächer - Technische Mathematik ({{ sem[0] }})</title>
     <link href="https://tiss.tuwien.ac.at/static/2.6.3/global/images/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
@@ -11,6 +11,9 @@
         [v-cloak] {
           display: none;
         }
+        .no-focus:focus:not(.is-active) {
+          border-color: #dbdbdb;
+        }
     </style>
 </head>
 <body>
@@ -18,10 +21,26 @@
         <div v-cloak>
             <section class="section">
                 <div class="container">
-                    <h1 class="title">Katalog Gebundene Wahlfächer - Technische Mathematik ({{ sem }})</h1>
+                    <h1 class="title">Katalog Gebundene Wahlfächer - Technische Mathematik ({{ sem[0] }})</h1>
                 </div>
             </section>
-            <section class="section" v-for="(cat_lvas, category) in lvas">
+            <section class="section">
+                <div class="container">
+                    <div class="columns">
+                        <div class="column is-narrow">
+                            <div class="buttons has-addons">
+                                <button style="box-shadow: none;" class="no-focus button" v-for="semester in sem" :class="{'is-active': sem_selected[semester]}" @click="toggle_sem(semester)">{{ semester }}</button>
+                            </div>
+                        </div>
+                        <div class="column">
+                            <div class="buttons has-addons">
+                                <button style="box-shadow: none;" class="no-focus button" v-for="(_, kind) in kind_selected" :class="{'is-active': kind_selected[kind]}" @click="toggle_kind(kind)">{{ kind }}</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="section" v-for="(cat_lvas, category) in lvas_filtered" v-if="cat_lvas.length > 0">
                 <div class="container">
                     <h2 class="subtitle">{{ category }}</h2>
                     <div v-for="lva in cat_lvas">
@@ -44,7 +63,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="box is-hidden-tablet">
+                        <div class="box is-hidden-tablet" style="margin-bottom: 24px;">
                             <div class="columns is-mobile">
                                 <div class="column is-narrow">
                                     <div class="columns">
@@ -59,7 +78,6 @@
                                         </div>
                                     </div>
                                 </div>
-
                                 <div class="column">
                                     <div class="columns">
                                         <div class="column" style="padding-bottom: 0px;">

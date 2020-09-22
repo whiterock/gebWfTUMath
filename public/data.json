@@ -82,6 +82,14 @@
                 "title": "Numerische Methoden der Str\u00f6mungsmechanik"
             },
             {
+                "cnum": "387.088",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=387088&semester=2020W",
+                "sem": "2020W",
+                "title": "Photonik 1"
+            },
+            {
                 "cnum": "376.059",
                 "ects": "3.0",
                 "kind": "VO",
@@ -1187,5 +1195,5 @@
         "2020W",
         "2019W"
     ],
-    "updated": "Dienstag, 22. September 2020 11:34:08"
+    "updated": "Dienstag, 22. September 2020 22:00:43"
 }

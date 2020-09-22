@@ -20,7 +20,7 @@ def collapse_whitespace(s):
 
 
 driver = Chrome(ChromeDriverManager().install())
-driver.set_window_rect(0, 0, 1280, 1024)
+# driver.set_window_rect(0, 0, 1280, 1024)
 wait = WebDriverWait(driver, 10)
 driver.implicitly_wait(10)
 

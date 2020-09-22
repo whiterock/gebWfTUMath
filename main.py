@@ -75,4 +75,4 @@ with open("public/data.json", "w") as f:
         'data': data,
         'sem': semesters,
         'updated': pendulum.now().format("dddd, DD. MMMM YYYY HH:mm:ss")
-    }, f)
+    }, f, sort_keys=True, indent=4)

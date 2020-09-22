@@ -12,6 +12,7 @@ cssselect = "*"
 lxml = "*"
 jinja2 = "*"
 pendulum = "*"
+webdriver-manager = "*"
 
 [requires]
 python_version = "3.8"

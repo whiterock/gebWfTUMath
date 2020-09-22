@@ -2,7 +2,7 @@ from selenium.webdriver import Chrome
 from selenium.webdriver.support.ui import WebDriverWait, Select
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-from chromedriver_py import binary_path
+from webdriver_manager.chrome import ChromeDriverManager
 from atexit import register
 from lxml.html import fromstring
 from collections import defaultdict
@@ -19,7 +19,7 @@ def collapse_whitespace(s):
     return ' '.join(s.split())
 
 
-driver = Chrome(executable_path=binary_path)
+driver = Chrome(ChromeDriverManager().install())
 driver.set_window_rect(0, 0, 1280, 1024)
 wait = WebDriverWait(driver, 10)
 driver.implicitly_wait(10)

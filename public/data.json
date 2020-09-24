@@ -204,6 +204,14 @@
                 "title": "AKALG Lie Algebren und Darstellungstheorie 1"
             },
             {
+                "cnum": "104.576",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104576&semester=2020W",
+                "sem": "2020W",
+                "title": "AKALG Lie Algebren und Darstellungstheorie 2"
+            },
+            {
                 "cnum": "104.125",
                 "ects": "4.5",
                 "kind": "VO",
@@ -254,6 +262,22 @@
                 "title": "AKANA: Seminar aus Analysis f\u00fcr Masterstudenten"
             },
             {
+                "cnum": "104.575",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104575&semester=2020W",
+                "sem": "2020W",
+                "title": "AKANA Integralgeometrie"
+            },
+            {
+                "cnum": "104.567",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=104567&semester=2020W",
+                "sem": "2020W",
+                "title": "AKANA AKGEO Seminar Analysis auf Mannigfaltigkeiten"
+            },
+            {
                 "cnum": "101.295",
                 "ects": "4.5",
                 "kind": "VO",
@@ -300,6 +324,46 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101502&semester=2020W",
                 "sem": "2020W",
                 "title": "Modellierung mit part. Differentialgleichungen"
+            },
+            {
+                "cnum": "101.862",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101862&semester=2020W",
+                "sem": "2020W",
+                "title": "AKANA Funktionen beschr\u00e4nkter Variation"
+            },
+            {
+                "cnum": "101.863",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=101863&semester=2020W",
+                "sem": "2020W",
+                "title": "AKANA Funktionen beschr\u00e4nkter Variation"
+            },
+            {
+                "cnum": "101.866",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101866&semester=2020W",
+                "sem": "2020W",
+                "title": "AKANA Einf\u00fchrung in die quasikonformalen Raumfunktionen"
+            },
+            {
+                "cnum": "101.868",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101868&semester=2020W",
+                "sem": "2020W",
+                "title": "AKANA Stochastische Differentialgleichungen u. ihre Numerik"
+            },
+            {
+                "cnum": "101.869",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=101869&semester=2020W",
+                "sem": "2020W",
+                "title": "AKANA Stochastische Differentialgleichungen u. ihre Numerik"
             },
             {
                 "cnum": "101.809",
@@ -366,6 +430,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104345&semester=2020W",
                 "sem": "2020W",
                 "title": "Analyse von Algorithmen"
+            },
+            {
+                "cnum": "104.573",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104573&semester=2020W",
+                "sem": "2020W",
+                "title": "AKDIS Gruppenwirkungen und kombinatorische Spezies"
             },
             {
                 "cnum": "104.559",
@@ -539,6 +611,22 @@
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Geometrie (AKGEO)": [
+            {
+                "cnum": "104.578",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104578&semester=2020W",
+                "sem": "2020W",
+                "title": "AKGEO Computer Aided Geometric Design"
+            },
+            {
+                "cnum": "104.579",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104579&semester=2020W",
+                "sem": "2020W",
+                "title": "AKGEO Computer Aided Geometric Design"
+            },
             {
                 "cnum": "104.362",
                 "ects": "3.0",
@@ -728,6 +816,22 @@
                 "title": "AKLOG. Beweistheorie 1"
             },
             {
+                "cnum": "104.570",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=104570&semester=2020W",
+                "sem": "2020W",
+                "title": "AKLOG Forschungsseminar"
+            },
+            {
+                "cnum": "104.571",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=104571&semester=2020W",
+                "sem": "2020W",
+                "title": "AKLOG Seminar aus Logik"
+            },
+            {
                 "cnum": "104.342",
                 "ects": "1.5",
                 "kind": "UE",
@@ -836,12 +940,36 @@
                 "title": "AKFVM-AKNUM Computational Finance"
             },
             {
+                "cnum": "101.872",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=101872&semester=2020W",
+                "sem": "2020W",
+                "title": "AKNUM Fast Algorithms for Boundary Integral Equations"
+            },
+            {
                 "cnum": "101.875",
                 "ects": "3.0",
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=101875&semester=2020W",
                 "sem": "2020W",
                 "title": "Numerische Methoden in der Akustik"
+            },
+            {
+                "cnum": "101.870",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=101870&semester=2020W",
+                "sem": "2020W",
+                "title": "AKNUM Finite Elemente Methoden in der numerischen Str\u00f6mungsmechanik"
+            },
+            {
+                "cnum": "101.873",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101873&semester=2020W",
+                "sem": "2020W",
+                "title": "AKANA Theorie der Distributionen"
             },
             {
                 "cnum": "101.696",
@@ -972,6 +1100,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=105707&semester=2020W",
                 "sem": "2020W",
                 "title": "Advanced Methods for Regression and Classification"
+            },
+            {
+                "cnum": "105.728",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105728&semester=2020W",
+                "sem": "2020W",
+                "title": "AKSTA Verallgemeinerte Lineare Modelle"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Volkswirtschaftslehre (AKVWL)": [
@@ -1195,5 +1331,5 @@
         "2020W",
         "2019W"
     ],
-    "updated": "Donnerstag, 24. September 2020 04:00:30"
+    "updated": "Donnerstag, 24. September 2020 22:00:28"
 }

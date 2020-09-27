@@ -138,6 +138,14 @@
                 "title": "Wellenausbreitung"
             },
             {
+                "cnum": "101.722",
+                "ects": "7.5",
+                "kind": "PR",
+                "link": "/course/courseDetails.xhtml?courseNr=101722&semester=2020W",
+                "sem": "2020W",
+                "title": "AKANW: Projektpraktikum aus Techn.Mathematik Maschinelles Lernen: Theorie und Anwendung"
+            },
+            {
                 "cnum": "101.542",
                 "ects": "3.0",
                 "kind": "SE",
@@ -168,14 +176,6 @@
                 "link": "/course/courseDetails.xhtml?courseNr=387026&semester=2019W",
                 "sem": "2019W",
                 "title": "Photonik 1"
-            },
-            {
-                "cnum": "101.722",
-                "ects": "7.5",
-                "kind": "PR",
-                "link": "/course/courseDetails.xhtml?courseNr=101722&semester=2019W",
-                "sem": "2019W",
-                "title": "AKANW: Projektpraktikum aus Techn.Mathematik Maschinelles Lernen: Theorie und Anwendung"
             },
             {
                 "cnum": "101.647",
@@ -900,6 +900,14 @@
         ],
         "Ausgew\u00e4hlte Kapitel der Numerischen Mathematik (AKNUM)": [
             {
+                "cnum": "101.696",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=101696&semester=2020W",
+                "sem": "2020W",
+                "title": "AKNUM Maschinelles Lernen"
+            },
+            {
                 "cnum": "101.727",
                 "ects": "3.0",
                 "kind": "UE",
@@ -970,14 +978,6 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101873&semester=2020W",
                 "sem": "2020W",
                 "title": "AKANA Theorie der Distributionen"
-            },
-            {
-                "cnum": "101.696",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=101696&semester=2019W",
-                "sem": "2019W",
-                "title": "AKNUM Maschinelles Lernen"
             },
             {
                 "cnum": "101.718",
@@ -1331,5 +1331,5 @@
         "2020W",
         "2019W"
     ],
-    "updated": "Sonntag, 27. September 2020 04:00:30"
+    "updated": "Sonntag, 27. September 2020 22:00:30"
 }

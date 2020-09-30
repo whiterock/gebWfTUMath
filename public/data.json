@@ -82,6 +82,14 @@
                 "title": "Numerische Methoden der Str\u00f6mungsmechanik"
             },
             {
+                "cnum": "142.725",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=142725&semester=2020W",
+                "sem": "2020W",
+                "title": "Pfadintegrale in der Quantenmechanik und Quantenfeldtheorie"
+            },
+            {
                 "cnum": "387.088",
                 "ects": "3.0",
                 "kind": "VO",
@@ -160,14 +168,6 @@
                 "link": "/course/courseDetails.xhtml?courseNr=107303&semester=2020W",
                 "sem": "2020W",
                 "title": "AKANW: Fuzzy Modelle"
-            },
-            {
-                "cnum": "142.725",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=142725&semester=2019W",
-                "sem": "2019W",
-                "title": "Pfadintegrale in der Quantenmechanik und Quantenfeldtheorie"
             },
             {
                 "cnum": "387.026",
@@ -364,6 +364,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101869&semester=2020W",
                 "sem": "2020W",
                 "title": "AKANA Stochastische Differentialgleichungen u. ihre Numerik"
+            },
+            {
+                "cnum": "104.580",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104580&semester=2020W",
+                "sem": "2020W",
+                "title": "AKANA AKGEO Curve shortening flow"
             },
             {
                 "cnum": "101.809",
@@ -961,7 +969,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=101875&semester=2020W",
                 "sem": "2020W",
-                "title": "Numerische Methoden in der Akustik"
+                "title": "AKMOD AKNUM Numerische Methoden in der Akustik"
             },
             {
                 "cnum": "101.870",
@@ -978,6 +986,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101873&semester=2020W",
                 "sem": "2020W",
                 "title": "AKANA Theorie der Distributionen"
+            },
+            {
+                "cnum": "101.879",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=101879&semester=2020W",
+                "sem": "2020W",
+                "title": "AKNUM Advanced Reinforcement Learning"
+            },
+            {
+                "cnum": "101.881",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101881&semester=2020W",
+                "sem": "2020W",
+                "title": "AKNUM Unsicherheitsquantifizierung"
             },
             {
                 "cnum": "101.718",
@@ -1331,5 +1355,5 @@
         "2020W",
         "2019W"
     ],
-    "updated": "Mittwoch, 30. September 2020 04:00:28"
+    "updated": "Mittwoch, 30. September 2020 22:00:30"
 }

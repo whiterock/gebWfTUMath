@@ -2,450 +2,222 @@
     "data": {
         "Ausgew\u00e4hlte Kapitel aus Naturwissenschaften und Technik (AKANW)": [
             {
-                "cnum": "136.026",
+                "cnum": "301.045",
                 "ects": "3.0",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=136026&semester=2020W",
-                "sem": "2020W",
-                "title": "Einf.i.d.Allgemeine Relativit\u00e4tstheorie"
+                "link": "/course/courseDetails.xhtml?courseNr=301045&semester=2021S",
+                "sem": "2021S",
+                "title": "Angewandte Dynamik und nichtlineare Schwingungen"
             },
             {
-                "cnum": "136.018",
-                "ects": "4.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=136018&semester=2020W",
-                "sem": "2020W",
-                "title": "Elektrodynamik II"
-            },
-            {
-                "cnum": "136.047",
+                "cnum": "301.067",
                 "ects": "2.0",
                 "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=136047&semester=2020W",
-                "sem": "2020W",
-                "title": "Elektrodynamik II"
+                "link": "/course/courseDetails.xhtml?courseNr=301067&semester=2021S",
+                "sem": "2021S",
+                "title": "Angewandte Dynamik und nichtlineare Schwingungen"
             },
             {
-                "cnum": "138.024",
-                "ects": "4.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=138024&semester=2020W",
-                "sem": "2020W",
-                "title": "Festk\u00f6rperphysik II"
-            },
-            {
-                "cnum": "136.008",
+                "cnum": "322.074",
                 "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=136008&semester=2020W",
-                "sem": "2020W",
-                "title": "Geometrie und Gravitation II"
-            },
-            {
-                "cnum": "322.029",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=322029&semester=2020W",
-                "sem": "2020W",
-                "title": "Grenzschichttheorie"
-            },
-            {
-                "cnum": "325.064",
-                "ects": "5.0",
                 "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=325064&semester=2020W",
-                "sem": "2020W",
-                "title": "H\u00f6here Festigkeitslehre"
+                "link": "/course/courseDetails.xhtml?courseNr=322074&semester=2021S",
+                "sem": "2021S",
+                "title": "Asymptotische Methoden in der Str\u00f6mungslehre"
             },
             {
-                "cnum": "304.020",
+                "cnum": "142.086",
                 "ects": "3.0",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=304020&semester=2020W",
-                "sem": "2020W",
-                "title": "Hydrodynamische Instabilit\u00e4ten und \u00dcbergang zur Turbulenz"
+                "link": "/course/courseDetails.xhtml?courseNr=142086&semester=2021S",
+                "sem": "2021S",
+                "title": "Atom-, Kern- und Teilchenphysik I"
             },
             {
-                "cnum": "302.042",
+                "cnum": "142.089",
+                "ects": "1.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=142089&semester=2021S",
+                "sem": "2021S",
+                "title": "Atom-, Kern- und Teilchenphysik I"
+            },
+            {
+                "cnum": "138.017",
                 "ects": "3.0",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=302042&semester=2020W",
-                "sem": "2020W",
-                "title": "Numerische Methoden der Str\u00f6mungsmechanik"
+                "link": "/course/courseDetails.xhtml?courseNr=138017&semester=2021S",
+                "sem": "2021S",
+                "title": "Festk\u00f6rperphysik I"
             },
             {
-                "cnum": "302.044",
+                "cnum": "309.029",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=309029&semester=2021S",
+                "sem": "2021S",
+                "title": "Grundlagen d. Mehrk\u00f6rpersystemdynamik"
+            },
+            {
+                "cnum": "138.053",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=138053&semester=2021S",
+                "sem": "2021S",
+                "title": "Materialwissenschaften"
+            },
+            {
+                "cnum": "319.030",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=319030&semester=2021S",
+                "sem": "2021S",
+                "title": "Mehrphasensysteme"
+            },
+            {
+                "cnum": "322.054",
                 "ects": "2.0",
                 "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=302044&semester=2020W",
-                "sem": "2020W",
-                "title": "Numerische Methoden der Str\u00f6mungsmechanik"
+                "link": "/course/courseDetails.xhtml?courseNr=322054&semester=2021S",
+                "sem": "2021S",
+                "title": "Mehrphasensysteme"
             },
             {
-                "cnum": "387.088",
+                "cnum": "387.028",
                 "ects": "3.0",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=387088&semester=2020W",
-                "sem": "2020W",
-                "title": "Photonik 1"
+                "link": "/course/courseDetails.xhtml?courseNr=387028&semester=2021S",
+                "sem": "2021S",
+                "title": "Optische Systeme"
             },
             {
-                "cnum": "376.059",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=376059&semester=2020W",
-                "sem": "2020W",
-                "title": "Regelungssysteme 1"
-            },
-            {
-                "cnum": "136.019",
-                "ects": "10.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=136019&semester=2020W",
-                "sem": "2020W",
-                "title": "Quantentheorie I"
-            },
-            {
-                "cnum": "136.027",
-                "ects": "6.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=136027&semester=2020W",
-                "sem": "2020W",
-                "title": "Quantentheorie II"
-            },
-            {
-                "cnum": "387.083",
-                "ects": "4.5",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=387083&semester=2020W",
-                "sem": "2020W",
-                "title": "Signale und Systeme 1"
-            },
-            {
-                "cnum": "304.524",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=304524&semester=2020W",
-                "sem": "2020W",
-                "title": "Str\u00f6mungslehre f\u00fcr TPH"
-            },
-            {
-                "cnum": "389.064",
+                "cnum": "389.055",
                 "ects": "4.0",
                 "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=389064&semester=2020W",
-                "sem": "2020W",
-                "title": "Wellenausbreitung"
+                "link": "/course/courseDetails.xhtml?courseNr=389055&semester=2021S",
+                "sem": "2021S",
+                "title": "Signale und Systeme 2"
+            },
+            {
+                "cnum": "101.197",
+                "ects": "7.5",
+                "kind": "PR",
+                "link": "/course/courseDetails.xhtml?courseNr=101197&semester=2021S",
+                "sem": "2021S",
+                "title": "AKANW: Projektpraktikum aus Techn.Mathematik"
             },
             {
                 "cnum": "101.722",
                 "ects": "7.5",
                 "kind": "PR",
-                "link": "/course/courseDetails.xhtml?courseNr=101722&semester=2020W",
-                "sem": "2020W",
+                "link": "/course/courseDetails.xhtml?courseNr=101722&semester=2021S",
+                "sem": "2021S",
                 "title": "AKANW: Projektpraktikum aus Techn.Mathematik Maschinelles Lernen: Theorie und Anwendung"
+            },
+            {
+                "cnum": "101.152",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101152&semester=2021S",
+                "sem": "2021S",
+                "title": "AKANW Brain Modeling"
             },
             {
                 "cnum": "101.542",
                 "ects": "3.0",
                 "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=101542&semester=2020W",
-                "sem": "2020W",
+                "link": "/course/courseDetails.xhtml?courseNr=101542&semester=2021S",
+                "sem": "2021S",
                 "title": "AKANW Dissipation and dispersion in nonlinear partial differential equations"
-            },
-            {
-                "cnum": "107.303",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=107303&semester=2020W",
-                "sem": "2020W",
-                "title": "AKANW: Fuzzy Modelle"
-            },
-            {
-                "cnum": "142.725",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=142725&semester=2019W",
-                "sem": "2019W",
-                "title": "Pfadintegrale in der Quantenmechanik und Quantenfeldtheorie"
-            },
-            {
-                "cnum": "387.026",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=387026&semester=2019W",
-                "sem": "2019W",
-                "title": "Photonik 1"
-            },
-            {
-                "cnum": "101.647",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=101647&semester=2019W",
-                "sem": "2019W",
-                "title": "AKBIO: H\u00f6rtheorie"
-            }
-        ],
-        "Ausgew\u00e4hlte Kapitel der Algebra (AKALG)": [
-            {
-                "cnum": "104.108",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=104108&semester=2020W",
-                "sem": "2020W",
-                "title": "AKALG: Forschungsseminar"
-            },
-            {
-                "cnum": "104.501",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104501&semester=2020W",
-                "sem": "2020W",
-                "title": "AKALG Lie Algebren und Darstellungstheorie 1"
-            },
-            {
-                "cnum": "104.576",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104576&semester=2020W",
-                "sem": "2020W",
-                "title": "AKALG Lie Algebren und Darstellungstheorie 2"
-            },
-            {
-                "cnum": "104.125",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104125&semester=2019W",
-                "sem": "2019W",
-                "title": "AKALG Algebra II"
-            },
-            {
-                "cnum": "104.127",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=104127&semester=2019W",
-                "sem": "2019W",
-                "title": "AKALG Algebra II"
-            },
-            {
-                "cnum": "104.554",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=104554&semester=2019W",
-                "sem": "2019W",
-                "title": "AKALG Endliche Modelltheorie, UE"
-            },
-            {
-                "cnum": "104.556",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=104556&semester=2019W",
-                "sem": "2019W",
-                "title": "AKALG Gleichungen allgemeiner Algebren"
-            },
-            {
-                "cnum": "104.558",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104558&semester=2019W",
-                "sem": "2019W",
-                "title": "AKALG Endliche Modelltheorie"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Analysis (AKANA)": [
             {
-                "cnum": "101.434",
+                "cnum": "101.047",
                 "ects": "3.0",
                 "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=101434&semester=2020W",
-                "sem": "2020W",
-                "title": "AKANA: Seminar aus Analysis f\u00fcr Masterstudenten"
+                "link": "/course/courseDetails.xhtml?courseNr=101047&semester=2021S",
+                "sem": "2021S",
+                "title": "AKANA: Seminar aus Funktionalanalysis"
             },
             {
-                "cnum": "104.575",
+                "cnum": "101.335",
                 "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104575&semester=2020W",
-                "sem": "2020W",
-                "title": "AKANA Integralgeometrie"
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=101335&semester=2021S",
+                "sem": "2021S",
+                "title": "AKANA Nichtlineare partielle Differentialgleichungen"
             },
             {
-                "cnum": "104.567",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=104567&semester=2020W",
-                "sem": "2020W",
-                "title": "AKANA AKGEO Seminar Analysis auf Mannigfaltigkeiten"
-            },
-            {
-                "cnum": "101.295",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101295&semester=2020W",
-                "sem": "2020W",
-                "title": "Funktionalanalysis 2"
-            },
-            {
-                "cnum": "101.280",
+                "cnum": "101.544",
                 "ects": "1.5",
                 "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=101280&semester=2020W",
-                "sem": "2020W",
-                "title": "Funktionalanalysis 2"
+                "link": "/course/courseDetails.xhtml?courseNr=101544&semester=2021S",
+                "sem": "2021S",
+                "title": "Topologie"
             },
             {
-                "cnum": "104.351",
+                "cnum": "101.334",
                 "ects": "4.5",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104351&semester=2020W",
-                "sem": "2020W",
-                "title": "Geometrische Analysis"
+                "link": "/course/courseDetails.xhtml?courseNr=101334&semester=2021S",
+                "sem": "2021S",
+                "title": "AKANA Nichtlineare partielle Differentialgleichungen"
             },
             {
-                "cnum": "104.355",
+                "cnum": "101.543",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101543&semester=2021S",
+                "sem": "2021S",
+                "title": "Topologie"
+            },
+            {
+                "cnum": "101.522",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101522&semester=2021S",
+                "sem": "2021S",
+                "title": "Komplexe Analysis"
+            },
+            {
+                "cnum": "101.523",
                 "ects": "1.5",
                 "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=104355&semester=2020W",
-                "sem": "2020W",
-                "title": "Geometrische Analysis"
+                "link": "/course/courseDetails.xhtml?courseNr=101523&semester=2021S",
+                "sem": "2021S",
+                "title": "Komplexe Analysis"
             },
             {
-                "cnum": "101.500",
+                "cnum": "101.325",
                 "ects": "4.5",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101500&semester=2020W",
-                "sem": "2020W",
-                "title": "Modellierung mit part. Differentialgleichungen"
+                "link": "/course/courseDetails.xhtml?courseNr=101325&semester=2021S",
+                "sem": "2021S",
+                "title": "Variationsrechnung"
             },
             {
-                "cnum": "101.502",
+                "cnum": "101.518",
                 "ects": "1.5",
                 "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=101502&semester=2020W",
-                "sem": "2020W",
-                "title": "Modellierung mit part. Differentialgleichungen"
+                "link": "/course/courseDetails.xhtml?courseNr=101518&semester=2021S",
+                "sem": "2021S",
+                "title": "Variationsrechnung"
             },
             {
-                "cnum": "101.862",
+                "cnum": "104.356",
                 "ects": "4.5",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101862&semester=2020W",
-                "sem": "2020W",
-                "title": "AKANA Funktionen beschr\u00e4nkter Variation"
+                "link": "/course/courseDetails.xhtml?courseNr=104356&semester=2021S",
+                "sem": "2021S",
+                "title": "Differentialgeometrie"
             },
             {
-                "cnum": "101.863",
+                "cnum": "104.358",
                 "ects": "1.5",
                 "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=101863&semester=2020W",
-                "sem": "2020W",
-                "title": "AKANA Funktionen beschr\u00e4nkter Variation"
-            },
-            {
-                "cnum": "101.866",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101866&semester=2020W",
-                "sem": "2020W",
-                "title": "AKANA Einf\u00fchrung in die quasikonformalen Raumfunktionen"
-            },
-            {
-                "cnum": "101.868",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101868&semester=2020W",
-                "sem": "2020W",
-                "title": "AKANA Stochastische Differentialgleichungen u. ihre Numerik"
-            },
-            {
-                "cnum": "101.869",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=101869&semester=2020W",
-                "sem": "2020W",
-                "title": "AKANA Stochastische Differentialgleichungen u. ihre Numerik"
-            },
-            {
-                "cnum": "101.809",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101809&semester=2019W",
-                "sem": "2019W",
-                "title": "AKANA Analysis und Ma\u00dftheorie auf Topologischen R\u00e4umen"
-            },
-            {
-                "cnum": "101.812",
-                "ects": "1.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101812&semester=2019W",
-                "sem": "2019W",
-                "title": "AKANA Unitary Dilations and Interpolation Problems"
-            },
-            {
-                "cnum": "104.375",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104375&semester=2019W",
-                "sem": "2019W",
-                "title": "AKANA Harmonische Analysis und Geometrie"
-            },
-            {
-                "cnum": "101.807",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101807&semester=2019W",
-                "sem": "2019W",
-                "title": "AKANA Kanonische Systeme"
-            },
-            {
-                "cnum": "101.825",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=101825&semester=2019W",
-                "sem": "2019W",
-                "title": "AKANA Seminar mit Seminararbeit: Partielle Differentialgleichungen und Netzwerke"
-            }
-        ],
-        "Ausgew\u00e4hlte Kapitel der Diskreten Mathematik (AKDIS)": [
-            {
-                "cnum": "104.131",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=104131&semester=2020W",
-                "sem": "2020W",
-                "title": "AKDIS Seminar aus Kombinatorik"
-            },
-            {
-                "cnum": "104.347",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=104347&semester=2020W",
-                "sem": "2020W",
-                "title": "Analyse von Algorithmen"
-            },
-            {
-                "cnum": "104.345",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104345&semester=2020W",
-                "sem": "2020W",
-                "title": "Analyse von Algorithmen"
-            },
-            {
-                "cnum": "104.573",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104573&semester=2020W",
-                "sem": "2020W",
-                "title": "AKDIS Gruppenwirkungen und kombinatorische Spezies"
-            },
-            {
-                "cnum": "104.559",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=104559&semester=2019W",
-                "sem": "2019W",
-                "title": "AKDIS Experimentelle Methoden in der bijektiven Kombinatorik"
+                "link": "/course/courseDetails.xhtml?courseNr=104358&semester=2021S",
+                "sem": "2021S",
+                "title": "Differentialgeometrie"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Finanz- und Versicherungsmathematik (AKFVM)": [
@@ -453,883 +225,379 @@
                 "cnum": "105.029",
                 "ects": "3.0",
                 "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=105029&semester=2020W",
-                "sem": "2020W",
+                "link": "/course/courseDetails.xhtml?courseNr=105029&semester=2021S",
+                "sem": "2021S",
                 "title": "AKFVM Ausgew\u00e4hlte Kapitel der Finanz- und Versicherungsmathematik"
-            },
-            {
-                "cnum": "105.062",
-                "ects": "3.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=105062&semester=2020W",
-                "sem": "2020W",
-                "title": "AKFVM Versicherungswirtschaftslehre 2"
-            },
-            {
-                "cnum": "105.051",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=105051&semester=2020W",
-                "sem": "2020W",
-                "title": "AKFVM Versicherungs- und Finanzmathematik"
-            },
-            {
-                "cnum": "105.630",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=105630&semester=2020W",
-                "sem": "2020W",
-                "title": "AKFVM Stochastische Analysis in Finanz- und Versicherungsmathematik 3"
-            },
-            {
-                "cnum": "105.635",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=105635&semester=2020W",
-                "sem": "2020W",
-                "title": "AKVFM Gesamtbanksteuerung unter Basel III"
             },
             {
                 "cnum": "105.674",
                 "ects": "3.0",
                 "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=105674&semester=2020W",
-                "sem": "2020W",
+                "link": "/course/courseDetails.xhtml?courseNr=105674&semester=2021S",
+                "sem": "2021S",
                 "title": "AKFVM Seminar in Mathematical Finance and Probability"
             },
             {
-                "cnum": "105.673",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=105673&semester=2020W",
-                "sem": "2020W",
-                "title": "AKOEK/AKFVM Ausgew\u00e4hlte Kapitel aus \u00d6konometrie, Finanz- und Versicherungsmathematik"
+                "cnum": "105.660",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105660&semester=2021S",
+                "sem": "2021S",
+                "title": "Statistische Methoden im Versicherungswesen"
             },
             {
-                "cnum": "105.688",
-                "ects": "3.0",
+                "cnum": "105.152",
+                "ects": "2.5",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=105688&semester=2020W",
-                "sem": "2020W",
-                "title": "AKFVM Limit Orderbuch und Hochfrequenzhandel"
+                "link": "/course/courseDetails.xhtml?courseNr=105152&semester=2021S",
+                "sem": "2021S",
+                "title": "Sozialversicherungsrecht"
             },
             {
-                "cnum": "105.713",
+                "cnum": "105.043",
                 "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=105713&semester=2020W",
-                "sem": "2020W",
-                "title": "AKFVM Ausgew\u00e4hlte Kapitel der stochastischen Kontrolltheorie"
-            },
-            {
-                "cnum": "105.631",
-                "ects": "1.5",
                 "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=105631&semester=2020W",
-                "sem": "2020W",
-                "title": "AKFVM Stochastische Analysis in Finanz- und Versicherungsmathematik 3"
+                "link": "/course/courseDetails.xhtml?courseNr=105043&semester=2021S",
+                "sem": "2021S",
+                "title": "Sachversicherungsmathematik"
             },
             {
-                "cnum": "105.639",
+                "cnum": "105.047",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105047&semester=2021S",
+                "sem": "2021S",
+                "title": "Sachversicherungsmathematik"
+            },
+            {
+                "cnum": "105.603",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105603&semester=2021S",
+                "sem": "2021S",
+                "title": "Risikomanagement im Finanz- und Versicherungswesen"
+            },
+            {
+                "cnum": "105.145",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105145&semester=2021S",
+                "sem": "2021S",
+                "title": "Internationale Rechnungslegung"
+            },
+            {
+                "cnum": "105.657",
                 "ects": "4.0",
                 "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=105639&semester=2020W",
-                "sem": "2020W",
-                "title": "Zinsstrukturmodelle und -derivate"
+                "link": "/course/courseDetails.xhtml?courseNr=105657&semester=2021S",
+                "sem": "2021S",
+                "title": "H\u00f6here Lebensversicherungsmathematik"
             },
             {
-                "cnum": "105.053",
-                "ects": "4.5",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=105053&semester=2020W",
-                "sem": "2020W",
-                "title": "Stochastische Kontrolltheorie f\u00fcr FVM"
-            },
-            {
-                "cnum": "105.089",
-                "ects": "2.0",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=105089&semester=2020W",
-                "sem": "2020W",
-                "title": "Stochastische Analysis f\u00fcr FVM 1"
-            },
-            {
-                "cnum": "105.653",
-                "ects": "5.0",
+                "cnum": "105.636",
+                "ects": "3.5",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=105653&semester=2020W",
-                "sem": "2020W",
-                "title": "Stochastische Analysis f\u00fcr FVM 1"
-            },
-            {
-                "cnum": "105.041",
-                "ects": "3.0",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=105041&semester=2020W",
-                "sem": "2020W",
-                "title": "Risiko- und Ruintheorie"
-            },
-            {
-                "cnum": "105.638",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=105638&semester=2020W",
-                "sem": "2020W",
-                "title": "Risiko- und Ruintheorie"
-            },
-            {
-                "cnum": "105.602",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=105602&semester=2020W",
-                "sem": "2020W",
-                "title": "Personenversicherungsmathematik"
-            },
-            {
-                "cnum": "105.601",
-                "ects": "6.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=105601&semester=2020W",
-                "sem": "2020W",
-                "title": "Personenversicherungsmathematik"
-            },
-            {
-                "cnum": "105.643",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=105643&semester=2020W",
-                "sem": "2020W",
-                "title": "Aktuarielle Modellierung"
-            },
-            {
-                "cnum": "105.661",
-                "ects": "3.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=105661&semester=2019W",
-                "sem": "2019W",
-                "title": "AKFVM Implementierung stochastischer Methoden in der Finanz- und Versicherungsmathematik"
+                "link": "/course/courseDetails.xhtml?courseNr=105636&semester=2021S",
+                "sem": "2021S",
+                "title": "Finanzm\u00e4rkte, Finanzintermediation und Kapitalanlage"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Geometrie (AKGEO)": [
             {
-                "cnum": "104.578",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104578&semester=2020W",
-                "sem": "2020W",
-                "title": "AKGEO Computer Aided Geometric Design"
-            },
-            {
-                "cnum": "104.579",
+                "cnum": "104.358",
                 "ects": "1.5",
                 "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=104579&semester=2020W",
-                "sem": "2020W",
-                "title": "AKGEO Computer Aided Geometric Design"
+                "link": "/course/courseDetails.xhtml?courseNr=104358&semester=2021S",
+                "sem": "2021S",
+                "title": "Differentialgeometrie"
             },
             {
-                "cnum": "104.362",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=104362&semester=2020W",
-                "sem": "2020W",
-                "title": "AKGEO Seminar aus Differentialgeometrie"
-            },
-            {
-                "cnum": "104.355",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=104355&semester=2020W",
-                "sem": "2020W",
-                "title": "Geometrische Analysis"
-            },
-            {
-                "cnum": "104.351",
+                "cnum": "104.356",
                 "ects": "4.5",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104351&semester=2020W",
-                "sem": "2020W",
-                "title": "Geometrische Analysis"
-            },
-            {
-                "cnum": "104.360",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=104360&semester=2020W",
-                "sem": "2020W",
-                "title": "Geometrische Datenverarbeitung"
-            },
-            {
-                "cnum": "104.359",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104359&semester=2020W",
-                "sem": "2020W",
-                "title": "Geometrische Datenverarbeitung"
-            },
-            {
-                "cnum": "113.011",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=113011&semester=2019W",
-                "sem": "2019W",
-                "title": "AKGEO. Multilineare Algebra"
-            },
-            {
-                "cnum": "104.548",
-                "ects": "5.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=104548&semester=2019W",
-                "sem": "2019W",
-                "title": "AKGEO DDG - Integrable Diskretisierung"
+                "link": "/course/courseDetails.xhtml?courseNr=104356&semester=2021S",
+                "sem": "2021S",
+                "title": "Differentialgeometrie"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Informatik (AKINF)": [
             {
-                "cnum": "186.814",
-                "ects": "6.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=186814&semester=2020W",
-                "sem": "2020W",
-                "title": "Algorithmics"
-            },
-            {
-                "cnum": "183.111",
+                "cnum": "186.830",
                 "ects": "3.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=183111&semester=2020W",
-                "sem": "2020W",
-                "title": "Ausgew\u00e4hlte Kapitel der Mustererkennung"
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=186830&semester=2021S",
+                "sem": "2021S",
+                "title": "Computergraphik"
             },
             {
-                "cnum": "184.686",
+                "cnum": "186.831",
                 "ects": "6.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=184686&semester=2020W",
-                "sem": "2020W",
-                "title": "Datenbanksysteme"
-            },
-            {
-                "cnum": "184.701",
-                "ects": "3.0",
                 "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=184701&semester=2020W",
-                "sem": "2020W",
-                "title": "Deklaratives Probleml\u00f6sen"
+                "link": "/course/courseDetails.xhtml?courseNr=186831&semester=2021S",
+                "sem": "2021S",
+                "title": "Computergraphik"
             },
             {
-                "cnum": "185.A03",
+                "cnum": "188.391",
                 "ects": "3.0",
                 "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=185A03&semester=2020W",
-                "sem": "2020W",
-                "title": "Funktionale Programmierung"
+                "link": "/course/courseDetails.xhtml?courseNr=188391&semester=2021S",
+                "sem": "2021S",
+                "title": "Objektorientierte Modellierung"
             },
             {
-                "cnum": "181.142",
+                "cnum": "186.101",
                 "ects": "3.0",
                 "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=181142&semester=2020W",
-                "sem": "2020W",
-                "title": "Komplexit\u00e4tstheorie"
+                "link": "/course/courseDetails.xhtml?courseNr=186101&semester=2021S",
+                "sem": "2021S",
+                "title": "Rendering"
             },
             {
-                "cnum": "185.A12",
+                "cnum": "184.774",
                 "ects": "6.0",
                 "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=185A12&semester=2020W",
-                "sem": "2020W",
-                "title": "Logikprogrammierung und Constraints"
-            },
-            {
-                "cnum": "184.067",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=184067&semester=2020W",
-                "sem": "2020W",
-                "title": "Seminar aus Theoretischer Informatik"
-            },
-            {
-                "cnum": "185.291",
-                "ects": "6.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=185291&semester=2020W",
-                "sem": "2020W",
-                "title": "Formale Methoden der Informatik"
-            },
-            {
-                "cnum": "184.754",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=184754&semester=2020W",
-                "sem": "2020W",
-                "title": "Seminar aus Algorithmik"
-            },
-            {
-                "cnum": "186.182",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=186182&semester=2020W",
-                "sem": "2020W",
-                "title": "Seminar aus Algorithmik"
-            },
-            {
-                "cnum": "186.862",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=186862&semester=2020W",
-                "sem": "2020W",
-                "title": "Seminar aus Algorithmik Graphen und Geometrie"
-            },
-            {
-                "cnum": "104.480",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=104480&semester=2019W",
-                "sem": "2019W",
-                "title": "Seminar aus theoretischer Informatik"
+                "link": "/course/courseDetails.xhtml?courseNr=184774&semester=2021S",
+                "sem": "2021S",
+                "title": "Automated Deduction"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Logik (AKLOG)": [
             {
-                "cnum": "108.030",
+                "cnum": "104.452",
                 "ects": "3.0",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=108030&semester=2020W",
-                "sem": "2020W",
-                "title": "AKLOG: Lambda Kalk\u00fcl"
-            },
-            {
-                "cnum": "118.051",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=118051&semester=2020W",
-                "sem": "2020W",
-                "title": "AKLOG. Seminar aus Logik"
-            },
-            {
-                "cnum": "118.131",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=118131&semester=2020W",
-                "sem": "2020W",
-                "title": "AKLOG. Beweistheorie 1"
-            },
-            {
-                "cnum": "104.570",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=104570&semester=2020W",
-                "sem": "2020W",
-                "title": "AKLOG Forschungsseminar"
-            },
-            {
-                "cnum": "104.571",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=104571&semester=2020W",
-                "sem": "2020W",
-                "title": "AKLOG Seminar aus Logik"
-            },
-            {
-                "cnum": "104.342",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=104342&semester=2020W",
-                "sem": "2020W",
-                "title": "Logik und Grundlagen der Mathematik UE"
-            },
-            {
-                "cnum": "104.547",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104547&semester=2019W",
-                "sem": "2019W",
-                "title": "AKALG Fortgeschrittene Forcingmethoden mit Schwerpunkt Mengenlehre der reellen Zahlen"
-            },
-            {
-                "cnum": "104.340",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104340&semester=2019W",
-                "sem": "2019W",
-                "title": "Logik und Grundlagen der Mathematik"
+                "link": "/course/courseDetails.xhtml?courseNr=104452&semester=2021S",
+                "sem": "2021S",
+                "title": "AKLOG: Forcing"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Modellbildung und Simulation (AKMOD)": [
             {
-                "cnum": "101.756",
+                "cnum": "101.186",
                 "ects": "3.0",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101756&semester=2020W",
-                "sem": "2020W",
+                "link": "/course/courseDetails.xhtml?courseNr=101186&semester=2021S",
+                "sem": "2021S",
+                "title": "AKMOD: Nervenmodelle"
+            },
+            {
+                "cnum": "101.445",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=101445&semester=2021S",
+                "sem": "2021S",
                 "title": "AKMOD: Mathematische Modellbildung in der Systemsimulation"
             },
             {
-                "cnum": "101.758",
+                "cnum": "101.787",
                 "ects": "3.0",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=101758&semester=2020W",
-                "sem": "2020W",
-                "title": "AKMOD: Mathematische Modellbildung in der Systemsimulation"
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=101787&semester=2021S",
+                "sem": "2021S",
+                "title": "AKMOD: Angewandte Modellbildung in der Systemsimulation"
             },
             {
-                "cnum": "101.759",
-                "ects": "6.0",
-                "kind": "PR",
-                "link": "/course/courseDetails.xhtml?courseNr=101759&semester=2020W",
-                "sem": "2020W",
-                "title": "AKMOD: Modellbildung und Simulation dynamischer Systeme"
-            },
-            {
-                "cnum": "101.502",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=101502&semester=2020W",
-                "sem": "2020W",
-                "title": "Modellierung mit part. Differentialgleichungen"
-            },
-            {
-                "cnum": "101.500",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101500&semester=2020W",
-                "sem": "2020W",
-                "title": "Modellierung mit part. Differentialgleichungen"
+                "cnum": "101.852",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=101852&semester=2021S",
+                "sem": "2021S",
+                "title": "AKMOD/AKANW Modellbildung und Analyse des Herz-Kreislauf-Systems"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Numerischen Mathematik (AKNUM)": [
             {
-                "cnum": "101.696",
+                "cnum": "101.403",
                 "ects": "3.0",
                 "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=101696&semester=2020W",
-                "sem": "2020W",
-                "title": "AKNUM Maschinelles Lernen"
+                "link": "/course/courseDetails.xhtml?courseNr=101403&semester=2021S",
+                "sem": "2021S",
+                "title": "AKNUM Seminar aus Numerik"
             },
             {
-                "cnum": "101.727",
-                "ects": "3.0",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=101727&semester=2020W",
-                "sem": "2020W",
-                "title": "AKFVM-AKNUM Computational Finance"
+                "cnum": "101.789",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=101789&semester=2021S",
+                "sem": "2021S",
+                "title": "AKNUM Reinforcement Learning"
             },
             {
-                "cnum": "101.507",
+                "cnum": "101.532",
                 "ects": "1.5",
                 "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=101507&semester=2020W",
-                "sem": "2020W",
-                "title": "Numerik partieller Differentialgleichungen: station\u00e4re Probleme"
+                "link": "/course/courseDetails.xhtml?courseNr=101532&semester=2021S",
+                "sem": "2021S",
+                "title": "Numerik partieller Differentialgleichungen: instation\u00e4re Probleme"
             },
             {
-                "cnum": "101.506",
+                "cnum": "101.509",
                 "ects": "4.5",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101506&semester=2020W",
-                "sem": "2020W",
-                "title": "Numerik partieller Differentialgleichungen: station\u00e4re Probleme"
+                "link": "/course/courseDetails.xhtml?courseNr=101509&semester=2021S",
+                "sem": "2021S",
+                "title": "Numerik partieller Differentialgleichungen: instation\u00e4re Probleme"
             },
             {
-                "cnum": "101.473",
-                "ects": "7.5",
-                "kind": "PR",
-                "link": "/course/courseDetails.xhtml?courseNr=101473&semester=2020W",
-                "sem": "2020W",
-                "title": "AKNUM Projektpraktikum aus Technischer Mathematik"
-            },
-            {
-                "cnum": "101.726",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101726&semester=2020W",
-                "sem": "2020W",
-                "title": "AKFVM-AKNUM Computational Finance"
-            },
-            {
-                "cnum": "101.872",
-                "ects": "4.5",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=101872&semester=2020W",
-                "sem": "2020W",
-                "title": "AKNUM Fast Algorithms for Boundary Integral Equations"
-            },
-            {
-                "cnum": "101.875",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101875&semester=2020W",
-                "sem": "2020W",
-                "title": "Numerische Methoden in der Akustik"
-            },
-            {
-                "cnum": "101.870",
-                "ects": "4.5",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=101870&semester=2020W",
-                "sem": "2020W",
-                "title": "AKNUM Finite Elemente Methoden in der numerischen Str\u00f6mungsmechanik"
-            },
-            {
-                "cnum": "101.873",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101873&semester=2020W",
-                "sem": "2020W",
-                "title": "AKANA Theorie der Distributionen"
-            },
-            {
-                "cnum": "101.718",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101718&semester=2019W",
-                "sem": "2019W",
-                "title": "AKNUM Theorie der Distributionen"
-            },
-            {
-                "cnum": "101.804",
+                "cnum": "101.845",
                 "ects": "3.0",
                 "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=101804&semester=2019W",
-                "sem": "2019W",
-                "title": "AKNUM Optimierung und Formoptimierung mit partiellen Differentialgleichungen"
-            },
-            {
-                "cnum": "101.814",
-                "ects": "5.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=101814&semester=2019W",
-                "sem": "2019W",
-                "title": "AKANA Optimierung mit partiellen Differentialgleichungen"
-            },
-            {
-                "cnum": "101.820",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=101820&semester=2019W",
-                "sem": "2019W",
-                "title": "AKNUM Nichtlokale Operatoren"
-            },
-            {
-                "cnum": "101.832",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=101832&semester=2019W",
-                "sem": "2019W",
-                "title": "AKNUM Seminar: Moderne Diskretisierungstechniken"
+                "link": "/course/courseDetails.xhtml?courseNr=101845&semester=2021S",
+                "sem": "2021S",
+                "title": "AKNUM Seminar Computational Mathematics"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Statistik (AKSTA)": [
             {
-                "cnum": "107.175",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=107175&semester=2020W",
-                "sem": "2020W",
-                "title": "AKSTA Seminar aus Stochastik"
-            },
-            {
-                "cnum": "107.805",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=107805&semester=2020W",
-                "sem": "2020W",
-                "title": "AKSTA.Seminar in Computerstatistik"
-            },
-            {
-                "cnum": "107.391",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=107391&semester=2020W",
-                "sem": "2020W",
-                "title": "Multivariate Statistik"
-            },
-            {
-                "cnum": "107.388",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=107388&semester=2020W",
-                "sem": "2020W",
-                "title": "Multivariate Statistik"
-            },
-            {
-                "cnum": "107.330",
+                "cnum": "105.731",
                 "ects": "3.0",
                 "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=107330&semester=2020W",
-                "sem": "2020W",
-                "title": "Statistische Simulation und computerintensive Methoden"
+                "link": "/course/courseDetails.xhtml?courseNr=105731&semester=2021S",
+                "sem": "2021S",
+                "title": "AKSTA Statistical Computing"
             },
             {
-                "cnum": "107.210",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=107210&semester=2020W",
-                "sem": "2020W",
-                "title": "Mathematische Statistik"
-            },
-            {
-                "cnum": "107.079",
-                "ects": "4.5",
+                "cnum": "107.697",
+                "ects": "3.0",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=107079&semester=2020W",
-                "sem": "2020W",
-                "title": "Mathematische Statistik"
+                "link": "/course/courseDetails.xhtml?courseNr=107697&semester=2021S",
+                "sem": "2021S",
+                "title": "AKSTA Theorie Statistischer Sch\u00e4tzung"
+            },
+            {
+                "cnum": "105.725",
+                "ects": "5.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105725&semester=2021S",
+                "sem": "2021S",
+                "title": "Allgemeine Regressionsmodelle"
             },
             {
                 "cnum": "107.134",
                 "ects": "7.5",
                 "kind": "PR",
-                "link": "/course/courseDetails.xhtml?courseNr=107134&semester=2020W",
-                "sem": "2020W",
+                "link": "/course/courseDetails.xhtml?courseNr=107134&semester=2021S",
+                "sem": "2021S",
                 "title": "AKSTA: Projektpraktikum aus Technischer Mathematik"
-            },
-            {
-                "cnum": "107.386",
-                "ects": "4.5",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=107386&semester=2020W",
-                "sem": "2020W",
-                "title": "Klassifikation und Diskriminanzanalyse"
-            },
-            {
-                "cnum": "105.707",
-                "ects": "4.5",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=105707&semester=2020W",
-                "sem": "2020W",
-                "title": "Advanced Methods for Regression and Classification"
-            },
-            {
-                "cnum": "105.728",
-                "ects": "3.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=105728&semester=2020W",
-                "sem": "2020W",
-                "title": "AKSTA Verallgemeinerte Lineare Modelle"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Volkswirtschaftslehre (AKVWL)": [
             {
-                "cnum": "175.868",
+                "cnum": "175.046",
                 "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=175868&semester=2020W",
-                "sem": "2020W",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=175046&semester=2021S",
+                "sem": "2021S",
                 "title": "AKVWL Environmental and Population Economics"
             },
             {
-                "cnum": "105.647",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=105647&semester=2020W",
-                "sem": "2020W",
-                "title": "Dynamische Makro\u00f6konomie"
-            },
-            {
-                "cnum": "105.646",
+                "cnum": "105.687",
                 "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=105646&semester=2020W",
-                "sem": "2020W",
-                "title": "Dynamische Makro\u00f6konomie"
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105687&semester=2021S",
+                "sem": "2021S",
+                "title": "AKVWL Dynamic Macroeconomic Modelling"
             },
             {
-                "cnum": "105.650",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=105650&semester=2020W",
-                "sem": "2020W",
-                "title": "Spieltheoretische Modellierung"
-            },
-            {
-                "cnum": "105.649",
+                "cnum": "105.622",
                 "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=105649&semester=2020W",
-                "sem": "2020W",
-                "title": "Spieltheoretische Modellierung"
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105622&semester=2021S",
+                "sem": "2021S",
+                "title": "Computational Social Simulation"
             },
             {
-                "cnum": "175.024",
+                "cnum": "105.723",
                 "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=175024&semester=2020W",
-                "sem": "2020W",
-                "title": "Political Economy of Europe"
-            },
-            {
-                "cnum": "105.706",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=105706&semester=2019W",
-                "sem": "2019W",
-                "title": "AKVWL Economic Consequences of the Digital Revolution"
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105723&semester=2021S",
+                "sem": "2021S",
+                "title": "AKVWL Inequality in Macroeconomics"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Wahrscheinlichkeitstheorie (AKWTH)": [
             {
-                "cnum": "107.A26",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=107A26&semester=2020W",
-                "sem": "2020W",
-                "title": "H\u00f6here Wahrscheinlichkeitstheorie"
-            },
-            {
-                "cnum": "107.A27",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=107A27&semester=2020W",
-                "sem": "2020W",
-                "title": "H\u00f6here Wahrscheinlichkeitstheorie"
-            },
-            {
-                "cnum": "105.724",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=105724&semester=2020W",
-                "sem": "2020W",
-                "title": "AKWTH Random walks on graphs"
-            },
-            {
-                "cnum": "101.836",
+                "cnum": "105.721",
                 "ects": "3.0",
                 "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=101836&semester=2019W",
-                "sem": "2019W",
-                "title": "AKANA AKWTH Stochastische Modelle abgesagt"
+                "link": "/course/courseDetails.xhtml?courseNr=105721&semester=2021S",
+                "sem": "2021S",
+                "title": "AKWTH Seminar aus Wahrscheinlichkeitstheorie"
+            },
+            {
+                "cnum": "107.241",
+                "ects": "5.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=107241&semester=2021S",
+                "sem": "2021S",
+                "title": "Theorie stochastischer Prozesse"
+            },
+            {
+                "cnum": "107.317",
+                "ects": "3.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=107317&semester=2021S",
+                "sem": "2021S",
+                "title": "Theorie stochastischer Prozesse"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der \u00d6konometrie (AKOEK)": [
             {
-                "cnum": "119.031",
-                "ects": "3.0",
+                "cnum": "105.645",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105645&semester=2021S",
+                "sem": "2021S",
+                "title": "Station\u00e4re Prozesse und Zeitreihenanalyse"
+            },
+            {
+                "cnum": "105.143",
+                "ects": "4.5",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=119031&semester=2020W",
-                "sem": "2020W",
-                "title": "AKOEK \u00d6konometrie d. Finanzm\u00e4rkte"
+                "link": "/course/courseDetails.xhtml?courseNr=105143&semester=2021S",
+                "sem": "2021S",
+                "title": "Station\u00e4re Prozesse und Zeitreihenanalyse"
             },
             {
-                "cnum": "109.002",
+                "cnum": "105.599",
+                "ects": "2.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105599&semester=2021S",
+                "sem": "2021S",
+                "title": "Mikro\u00f6konometrie"
+            },
+            {
+                "cnum": "105.126",
+                "ects": "4.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105126&semester=2021S",
+                "sem": "2021S",
+                "title": "Mikro\u00f6konometrie"
+            },
+            {
+                "cnum": "105.600",
                 "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=109002&semester=2020W",
-                "sem": "2020W",
-                "title": "AKOEK Seminar aus Angewandter \u00d6konometrie"
-            },
-            {
-                "cnum": "105.673",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=105673&semester=2020W",
-                "sem": "2020W",
-                "title": "AKOEK/AKFVM Ausgew\u00e4hlte Kapitel aus \u00d6konometrie, Finanz- und Versicherungsmathematik"
-            },
-            {
-                "cnum": "105.651",
-                "ects": "6.0",
-                "kind": "PR",
-                "link": "/course/courseDetails.xhtml?courseNr=105651&semester=2020W",
-                "sem": "2020W",
-                "title": "AKOEK Projekt aus \u00d6konometrie mit R"
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105600&semester=2021S",
+                "sem": "2021S",
+                "title": "\u00d6konometrie 2"
             }
         ],
         "Ausgew\u00e4hlte Kapitel des Operations Research (AKOR)": [
             {
-                "cnum": "110.043",
+                "cnum": "110.050",
                 "ects": "3.0",
                 "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=110043&semester=2020W",
-                "sem": "2020W",
-                "title": "AKOR Math. Drogenmodelle - Initiation, Pr\u00e4vention u. Therapie"
-            },
-            {
-                "cnum": "110.198",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=110198&semester=2020W",
-                "sem": "2020W",
-                "title": "AKOR Graphentheoret.Methoden d. OR"
-            },
-            {
-                "cnum": "105.141",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=105141&semester=2020W",
-                "sem": "2020W",
-                "title": "AKOR Seminar aus Operations Research"
-            },
-            {
-                "cnum": "105.682",
-                "ects": "3.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=105682&semester=2020W",
-                "sem": "2020W",
-                "title": "AKOR Stochastische Optimierung"
-            },
-            {
-                "cnum": "194.076",
-                "ects": "3.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=194076&semester=2020W",
-                "sem": "2020W",
-                "title": "Modeling and Simulation"
-            },
-            {
-                "cnum": "370.058",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=370058&semester=2020W",
-                "sem": "2020W",
-                "title": "Elektrizit\u00e4ts- u. Wasserwirtschaft"
-            },
-            {
-                "cnum": "105.652",
-                "ects": "2.0",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=105652&semester=2020W",
-                "sem": "2020W",
-                "title": "Nichtlineare Optimierung"
-            },
-            {
-                "cnum": "105.147",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=105147&semester=2020W",
-                "sem": "2020W",
-                "title": "Nichtlineare Optimierung"
-            },
-            {
-                "cnum": "105.658",
-                "ects": "7.5",
-                "kind": "PR",
-                "link": "/course/courseDetails.xhtml?courseNr=105658&semester=2020W",
-                "sem": "2020W",
-                "title": "AKOR Projekt aus Operations Research"
-            },
-            {
-                "cnum": "105.536",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=105536&semester=2020W",
-                "sem": "2020W",
-                "title": "AKOR Dynamische Optimierung"
-            },
-            {
-                "cnum": "110.209",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=110209&semester=2020W",
-                "sem": "2020W",
-                "title": "AKOR Graphentheoret.Methoden d. OR"
+                "link": "/course/courseDetails.xhtml?courseNr=110050&semester=2021S",
+                "sem": "2021S",
+                "title": "AKOR Nichtlineare Dynamische Systeme"
             }
         ]
     },
     "sem": [
-        "2020W",
-        "2019W"
+        "2021S",
+        "2020S"
     ],
-    "updated": "Montag, 28. September 2020 04:00:30"
+    "updated": "Samstag, 06. Februar 2021 10:31:57"
 }

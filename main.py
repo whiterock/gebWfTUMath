@@ -2,6 +2,7 @@ from selenium.webdriver import Chrome
 from selenium.webdriver.support.ui import WebDriverWait, Select
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoSuchElementException
 from webdriver_manager.chrome import ChromeDriverManager
 from atexit import register
 from lxml.html import fromstring
@@ -11,7 +12,17 @@ import pendulum
 pendulum.set_locale('de')
 
 
-SEM = "2020W"
+now = pendulum.now()
+month = now.month
+year = now.year
+
+if month == 1:
+    SEM = f"{year-1}W"
+elif month in {2, 3, 4, 5, 6, 7}:
+    SEM = f"{year}S"
+else:
+    SEM = f"{year}W"
+
 semesters = [SEM, f"{int(SEM[:4])-1}{SEM[-1]}"]
 
 
@@ -31,7 +42,10 @@ driver.get("https://tiss.tuwien.ac.at/curriculum/public/curriculum.xhtml?dswid=5
 data = defaultdict(list)
 for semester in semesters:
     driver.get("https://tiss.tuwien.ac.at/curriculum/public/curriculum.xhtml?dswid=5025&dsrid=300&key=64576")
-    Select(driver.find_element_by_id("j_id_2e:semesterSelect")).select_by_value(semester)
+    try:
+        Select(driver.find_element_by_id("j_id_2d:semesterSelect")).select_by_value(semester)
+    except NoSuchElementException:
+        continue
 
     wait.until(EC.text_to_be_present_in_element((By.CSS_SELECTOR, "tbody.ui-datatable-data"), "Ausgewählte Kapitel der Wahrscheinlichkeitstheorie (AKWTH)"))
     html = driver.find_element_by_css_selector("tbody.ui-datatable-data").get_attribute("innerHTML")

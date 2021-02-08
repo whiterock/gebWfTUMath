@@ -130,6 +130,32 @@
                 "title": "AKANW Dissipation and dispersion in nonlinear partial differential equations"
             }
         ],
+        "Ausgew\u00e4hlte Kapitel der Algebra (AKALG)": [
+            {
+                "cnum": "104.108",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=104108&semester=2021S",
+                "sem": "2021S",
+                "title": "AKALG: Forschungsseminar"
+            },
+            {
+                "cnum": "113.050",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=113050&semester=2021S",
+                "sem": "2021S",
+                "title": "AKALG Zahlentheorie f\u00fcr TM"
+            },
+            {
+                "cnum": "104.520",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104520&semester=2021S",
+                "sem": "2021S",
+                "title": "AKALG Zahlentheorie f\u00fcr TM"
+            }
+        ],
         "Ausgew\u00e4hlte Kapitel der Analysis (AKANA)": [
             {
                 "cnum": "101.047",
@@ -162,6 +188,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101334&semester=2021S",
                 "sem": "2021S",
                 "title": "AKANA Nichtlineare partielle Differentialgleichungen"
+            },
+            {
+                "cnum": "104.276",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104276&semester=2021S",
+                "sem": "2021S",
+                "title": "AKANA Analysis auf Mannigfaltigkeiten"
             },
             {
                 "cnum": "101.543",
@@ -218,6 +252,24 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104358&semester=2021S",
                 "sem": "2021S",
                 "title": "Differentialgeometrie"
+            }
+        ],
+        "Ausgew\u00e4hlte Kapitel der Diskreten Mathematik (AKDIS)": [
+            {
+                "cnum": "104.350",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104350&semester=2021S",
+                "sem": "2021S",
+                "title": "Diskrete Methoden"
+            },
+            {
+                "cnum": "104.349",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104349&semester=2021S",
+                "sem": "2021S",
+                "title": "Diskrete Methoden"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Finanz- und Versicherungsmathematik (AKFVM)": [
@@ -304,6 +356,14 @@
         ],
         "Ausgew\u00e4hlte Kapitel der Geometrie (AKGEO)": [
             {
+                "cnum": "111.009",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=111009&semester=2021S",
+                "sem": "2021S",
+                "title": "AKGEO. Liniengeometrie"
+            },
+            {
                 "cnum": "104.358",
                 "ects": "1.5",
                 "kind": "UE",
@@ -318,6 +378,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104356&semester=2021S",
                 "sem": "2021S",
                 "title": "Differentialgeometrie"
+            },
+            {
+                "cnum": "111.091",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=111091&semester=2021S",
+                "sem": "2021S",
+                "title": "AKGEO Liniengeometrie"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Informatik (AKINF)": [
@@ -362,15 +430,55 @@
                 "title": "Rendering"
             },
             {
+                "cnum": "108.036",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=108036&semester=2021S",
+                "sem": "2021S",
+                "title": "Theoretische Informatik"
+            },
+            {
+                "cnum": "108.037",
+                "ects": "2.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=108037&semester=2021S",
+                "sem": "2021S",
+                "title": "Theoretische Informatik, \u00dcbung"
+            },
+            {
                 "cnum": "184.774",
                 "ects": "6.0",
                 "kind": "VU",
                 "link": "/course/courseDetails.xhtml?courseNr=184774&semester=2021S",
                 "sem": "2021S",
                 "title": "Automated Deduction"
+            },
+            {
+                "cnum": "104.459",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104459&semester=2021S",
+                "sem": "2021S",
+                "title": "AKINF: Automaten und Formale Sprachen"
+            },
+            {
+                "cnum": "104.458",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104458&semester=2021S",
+                "sem": "2021S",
+                "title": "AKINF: Automaten und Formale Sprachen"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Logik (AKLOG)": [
+            {
+                "cnum": "118.211",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=118211&semester=2021S",
+                "sem": "2021S",
+                "title": "AKLOG: Beweistheorie 2"
+            },
             {
                 "cnum": "104.452",
                 "ects": "3.0",
@@ -378,6 +486,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104452&semester=2021S",
                 "sem": "2021S",
                 "title": "AKLOG: Forcing"
+            },
+            {
+                "cnum": "104.294",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=104294&semester=2021S",
+                "sem": "2021S",
+                "title": "AKLOG: Forschungsseminar Mengenlehre"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Modellbildung und Simulation (AKMOD)": [
@@ -607,5 +723,5 @@
         "2021S",
         "2020S"
     ],
-    "updated": "Montag, 08. Februar 2021 04:00:39"
+    "updated": "Montag, 08. Februar 2021 22:00:43"
 }

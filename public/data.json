@@ -406,6 +406,22 @@
                 "title": "Computergraphik"
             },
             {
+                "cnum": "182.691",
+                "ects": "4.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=182691&semester=2021S",
+                "sem": "2021S",
+                "title": "Elektrotechnische Grundlagen"
+            },
+            {
+                "cnum": "182.692",
+                "ects": "3.5",
+                "kind": "LU",
+                "link": "/course/courseDetails.xhtml?courseNr=182692&semester=2021S",
+                "sem": "2021S",
+                "title": "Elektrotechnische Grundlagen"
+            },
+            {
                 "cnum": "188.391",
                 "ects": "3.0",
                 "kind": "VU",
@@ -723,5 +739,5 @@
         "2021S",
         "2020S"
     ],
-    "updated": "Dienstag, 09. Februar 2021 04:00:36"
+    "updated": "Dienstag, 09. Februar 2021 22:00:41"
 }

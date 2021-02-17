@@ -510,6 +510,14 @@
                 "title": "Seminar aus Theoretischer Informatik"
             },
             {
+                "cnum": "185.224",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=185224&semester=2021S",
+                "sem": "2021S",
+                "title": "Termersetzungssysteme"
+            },
+            {
                 "cnum": "108.036",
                 "ects": "3.0",
                 "kind": "VO",
@@ -875,5 +883,5 @@
         "2021S",
         "2020S"
     ],
-    "updated": "Dienstag, 16. Februar 2021 22:00:39"
+    "updated": "Mittwoch, 17. Februar 2021 04:00:37"
 }

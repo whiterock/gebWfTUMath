@@ -98,6 +98,14 @@
                 "title": "Optische Systeme"
             },
             {
+                "cnum": "376.060",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=376060&semester=2021S",
+                "sem": "2021S",
+                "title": "Regelungssysteme 2"
+            },
+            {
                 "cnum": "389.055",
                 "ects": "4.0",
                 "kind": "VU",
@@ -750,6 +758,30 @@
                 "title": "AKSTA Theorie Statistischer Sch\u00e4tzung"
             },
             {
+                "cnum": "105.701",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=105701&semester=2021S",
+                "sem": "2021S",
+                "title": "AKSTA Seminar aus angewandter Statistik"
+            },
+            {
+                "cnum": "107.397",
+                "ects": "2.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=107397&semester=2021S",
+                "sem": "2021S",
+                "title": "Bayes-Statistik UE"
+            },
+            {
+                "cnum": "107.395",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=107395&semester=2021S",
+                "sem": "2021S",
+                "title": "Bayes-Statistik"
+            },
+            {
                 "cnum": "105.725",
                 "ects": "5.0",
                 "kind": "VU",
@@ -764,6 +796,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=107134&semester=2021S",
                 "sem": "2021S",
                 "title": "AKSTA: Projektpraktikum aus Technischer Mathematik"
+            },
+            {
+                "cnum": "105.681",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105681&semester=2021S",
+                "sem": "2021S",
+                "title": "AKSTA Nichtparametrische Methoden der Statistik"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Volkswirtschaftslehre (AKVWL)": [
@@ -782,6 +822,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=105687&semester=2021S",
                 "sem": "2021S",
                 "title": "AKVWL Dynamic Macroeconomic Modelling"
+            },
+            {
+                "cnum": "105.626",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=105626&semester=2021S",
+                "sem": "2021S",
+                "title": "Agent Based Computational Economics"
             },
             {
                 "cnum": "105.622",
@@ -808,6 +856,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=105721&semester=2021S",
                 "sem": "2021S",
                 "title": "AKWTH Seminar aus Wahrscheinlichkeitstheorie"
+            },
+            {
+                "cnum": "107.939",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=107939&semester=2021S",
+                "sem": "2021S",
+                "title": "AKOR AKWTH Warteschlangentheorie"
             },
             {
                 "cnum": "107.241",
@@ -876,6 +932,30 @@
                 "link": "/course/courseDetails.xhtml?courseNr=110050&semester=2021S",
                 "sem": "2021S",
                 "title": "AKOR Nichtlineare Dynamische Systeme"
+            },
+            {
+                "cnum": "107.939",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=107939&semester=2021S",
+                "sem": "2021S",
+                "title": "AKOR AKWTH Warteschlangentheorie"
+            },
+            {
+                "cnum": "105.655",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105655&semester=2021S",
+                "sem": "2021S",
+                "title": "Angewandtes Operations Research"
+            },
+            {
+                "cnum": "105.654",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105654&semester=2021S",
+                "sem": "2021S",
+                "title": "Angewandtes Operations Research"
             }
         ]
     },
@@ -883,5 +963,5 @@
         "2021S",
         "2020S"
     ],
-    "updated": "Mittwoch, 17. Februar 2021 04:00:37"
+    "updated": "Mittwoch, 17. Februar 2021 22:00:37"
 }

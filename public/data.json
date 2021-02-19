@@ -819,7 +819,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=105681&semester=2021S",
                 "sem": "2021S",
-                "title": "AKSTA Nichtparametrische Methoden der Statistik Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_973_j_id_54\",{id:\"j_id_2d:nodeTable:973:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:973:distanceLearningIcon\"});});"
+                "title": "AKSTA Nichtparametrische Methoden der Statistik"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Volkswirtschaftslehre (AKVWL)": [
@@ -829,7 +829,7 @@
                 "kind": "SE",
                 "link": "/course/courseDetails.xhtml?courseNr=175046&semester=2021S",
                 "sem": "2021S",
-                "title": "AKVWL Environmental and Population Economics Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_993_j_id_54\",{id:\"j_id_2d:nodeTable:993:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:993:distanceLearningIcon\"});});"
+                "title": "AKVWL Environmental and Population Economics"
             },
             {
                 "cnum": "105.687",
@@ -837,7 +837,7 @@
                 "kind": "VU",
                 "link": "/course/courseDetails.xhtml?courseNr=105687&semester=2021S",
                 "sem": "2021S",
-                "title": "AKVWL Dynamic Macroeconomic Modelling Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_998_j_id_54\",{id:\"j_id_2d:nodeTable:998:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:998:distanceLearningIcon\"});});"
+                "title": "AKVWL Dynamic Macroeconomic Modelling"
             },
             {
                 "cnum": "105.626",
@@ -845,7 +845,7 @@
                 "kind": "SE",
                 "link": "/course/courseDetails.xhtml?courseNr=105626&semester=2021S",
                 "sem": "2021S",
-                "title": "Agent Based Computational Economics Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1002_j_id_54\",{id:\"j_id_2d:nodeTable:1002:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1002:distanceLearningIcon\"});});"
+                "title": "Agent Based Computational Economics"
             },
             {
                 "cnum": "105.622",
@@ -853,7 +853,7 @@
                 "kind": "VU",
                 "link": "/course/courseDetails.xhtml?courseNr=105622&semester=2021S",
                 "sem": "2021S",
-                "title": "Computational Social Simulation Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1006_j_id_54\",{id:\"j_id_2d:nodeTable:1006:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1006:distanceLearningIcon\"});});"
+                "title": "Computational Social Simulation"
             },
             {
                 "cnum": "105.723",
@@ -861,7 +861,7 @@
                 "kind": "VU",
                 "link": "/course/courseDetails.xhtml?courseNr=105723&semester=2021S",
                 "sem": "2021S",
-                "title": "AKVWL Inequality in Macroeconomics Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1020_j_id_54\",{id:\"j_id_2d:nodeTable:1020:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1020:distanceLearningIcon\"});});"
+                "title": "AKVWL Inequality in Macroeconomics"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Wahrscheinlichkeitstheorie (AKWTH)": [
@@ -871,7 +871,7 @@
                 "kind": "SE",
                 "link": "/course/courseDetails.xhtml?courseNr=105721&semester=2021S",
                 "sem": "2021S",
-                "title": "AKWTH Seminar aus Wahrscheinlichkeitstheorie Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1027_j_id_54\",{id:\"j_id_2d:nodeTable:1027:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1027:distanceLearningIcon\"});});"
+                "title": "AKWTH Seminar aus Wahrscheinlichkeitstheorie"
             },
             {
                 "cnum": "107.939",
@@ -879,7 +879,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=107939&semester=2021S",
                 "sem": "2021S",
-                "title": "AKOR AKWTH Warteschlangentheorie Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1030_j_id_54\",{id:\"j_id_2d:nodeTable:1030:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1030:distanceLearningIcon\"});});"
+                "title": "AKOR AKWTH Warteschlangentheorie"
             },
             {
                 "cnum": "107.241",
@@ -887,7 +887,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=107241&semester=2021S",
                 "sem": "2021S",
-                "title": "Theorie stochastischer Prozesse Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1038_j_id_54\",{id:\"j_id_2d:nodeTable:1038:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1038:distanceLearningIcon\"});});"
+                "title": "Theorie stochastischer Prozesse"
             },
             {
                 "cnum": "107.317",
@@ -895,7 +895,7 @@
                 "kind": "UE",
                 "link": "/course/courseDetails.xhtml?courseNr=107317&semester=2021S",
                 "sem": "2021S",
-                "title": "Theorie stochastischer Prozesse Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1040_j_id_54\",{id:\"j_id_2d:nodeTable:1040:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1040:distanceLearningIcon\"});});"
+                "title": "Theorie stochastischer Prozesse"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der \u00d6konometrie (AKOEK)": [
@@ -979,5 +979,5 @@
         "2021S",
         "2020S"
     ],
-    "updated": "Donnerstag, 18. Februar 2021 22:00:37"
+    "updated": "Freitag, 19. Februar 2021 04:00:37"
 }

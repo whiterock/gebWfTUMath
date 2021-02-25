@@ -718,6 +718,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104294&semester=2021S",
                 "sem": "2021S",
                 "title": "AKLOG: Forschungsseminar Mengenlehre"
+            },
+            {
+                "cnum": "104.394",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=104394&semester=2021S",
+                "sem": "2021S",
+                "title": "Advanced Mathematical Logic"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Modellbildung und Simulation (AKMOD)": [
@@ -1059,5 +1067,5 @@
         "2021S",
         "2020S"
     ],
-    "updated": "Donnerstag, 25. Februar 2021 04:00:37"
+    "updated": "Donnerstag, 25. Februar 2021 22:00:37"
 }

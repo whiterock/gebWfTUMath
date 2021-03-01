@@ -63,6 +63,8 @@ for semester in semesters:
             links = row.cssselect("div.courseTitle > a")
             if links:
                 cnum, kind, sem, title = collapse_whitespace(cells[0].text_content().strip().replace("\n", " ")).split(maxsplit=3)
+                if "$" in title:
+                    title = title.split("$")[0].strip()
                 if sem not in semesters:
                     continue
                 link = links[0].get("href")

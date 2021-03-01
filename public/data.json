@@ -202,6 +202,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104520&semester=2021S",
                 "sem": "2021S",
                 "title": "AKALG Zahlentheorie f\u00fcr TM"
+            },
+            {
+                "cnum": "104.581",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=104581&semester=2021S",
+                "sem": "2021S",
+                "title": "AKALG Lie Algebren und Darstellungstheorie"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Analysis (AKANA)": [
@@ -316,6 +324,46 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101886&semester=2021S",
                 "sem": "2021S",
                 "title": "AKANA Elliptische partielle Differentialgleichungen"
+            },
+            {
+                "cnum": "101.894",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101894&semester=2021S",
+                "sem": "2021S",
+                "title": "AKANA Einf\u00fchrung in den mittleren Kr\u00fcmmungsfluss"
+            },
+            {
+                "cnum": "101.908",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101908&semester=2021S",
+                "sem": "2021S",
+                "title": "AKANA Stochastische PDEs"
+            },
+            {
+                "cnum": "101.911",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=101911&semester=2021S",
+                "sem": "2021S",
+                "title": "AKANA Stochastische PDEs"
+            },
+            {
+                "cnum": "101.913",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101913&semester=2021S",
+                "sem": "2021S",
+                "title": "AKANA Skalierungslimiten und kinetische Theorie"
+            },
+            {
+                "cnum": "104.586",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104586&semester=2021S",
+                "sem": "2021S",
+                "title": "AKANA AKGEO Mean curvature flow"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Diskreten Mathematik (AKDIS)": [
@@ -480,6 +528,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=105636&semester=2021S",
                 "sem": "2021S",
                 "title": "Finanzm\u00e4rkte, Finanzintermediation und Kapitalanlage"
+            },
+            {
+                "cnum": "105.732",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105732&semester=2021S",
+                "sem": "2021S",
+                "title": "AKFVM Machine Learning mit finanzmathematischen Anwendungen"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Geometrie (AKGEO)": [
@@ -514,6 +570,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=111091&semester=2021S",
                 "sem": "2021S",
                 "title": "AKGEO Liniengeometrie"
+            },
+            {
+                "cnum": "104.584",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=104584&semester=2021S",
+                "sem": "2021S",
+                "title": "AKGEO Algebraische Geometrie"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Informatik (AKINF)": [
@@ -796,6 +860,14 @@
                 "title": "Numerik partieller Differentialgleichungen: instation\u00e4re Probleme"
             },
             {
+                "cnum": "101.916",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101916&semester=2021S",
+                "sem": "2021S",
+                "title": "AKNUM Iterative Loesung grosser Gleichungssysteme"
+            },
+            {
                 "cnum": "101.845",
                 "ects": "3.0",
                 "kind": "SE",
@@ -804,12 +876,20 @@
                 "title": "AKNUM Seminar Computational Mathematics"
             },
             {
+                "cnum": "101.914",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101914&semester=2021S",
+                "sem": "2021S",
+                "title": "AKNUM - Fraktionale Differentialgleichungen, Analysis und Numerik Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_868_j_id_54\",{id:\"j_id_2d:nodeTable:868:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:868:distanceLearningIcon\"});});"
+            },
+            {
                 "cnum": "101.888",
                 "ects": "4.5",
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=101888&semester=2021S",
                 "sem": "2021S",
-                "title": "AKNUM : A posteriori Fehlersch\u00e4tzung und adaptive FEM"
+                "title": "AKNUM : A posteriori Fehlersch\u00e4tzung und adaptive FEM Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_872_j_id_54\",{id:\"j_id_2d:nodeTable:872:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:872:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "101.891",
@@ -817,7 +897,23 @@
                 "kind": "UE",
                 "link": "/course/courseDetails.xhtml?courseNr=101891&semester=2021S",
                 "sem": "2021S",
-                "title": "AKNUM : A posteriori Fehlersch\u00e4tzung und adaptive FEM"
+                "title": "AKNUM : A posteriori Fehlersch\u00e4tzung und adaptive FEM Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_874_j_id_54\",{id:\"j_id_2d:nodeTable:874:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:874:distanceLearningIcon\"});});"
+            },
+            {
+                "cnum": "101.902",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101902&semester=2021S",
+                "sem": "2021S",
+                "title": "AKANW-AKMOD-AKNUM Die Mathematik von Fl\u00fcssigkristallen Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_877_j_id_54\",{id:\"j_id_2d:nodeTable:877:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:877:distanceLearningIcon\"});});"
+            },
+            {
+                "cnum": "101.917",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=101917&semester=2021S",
+                "sem": "2021S",
+                "title": "AKNUM Iterative Loesung grosser Gleichungssysteme Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_879_j_id_54\",{id:\"j_id_2d:nodeTable:879:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:879:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "101.920",
@@ -825,7 +921,7 @@
                 "kind": "SE",
                 "link": "/course/courseDetails.xhtml?courseNr=101920&semester=2021S",
                 "sem": "2021S",
-                "title": "AKNUM Unsicherheitsquantifizierung"
+                "title": "AKNUM Unsicherheitsquantifizierung Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_881_j_id_54\",{id:\"j_id_2d:nodeTable:881:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:881:distanceLearningIcon\"});});"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Statistik (AKSTA)": [
@@ -835,7 +931,7 @@
                 "kind": "VU",
                 "link": "/course/courseDetails.xhtml?courseNr=105731&semester=2021S",
                 "sem": "2021S",
-                "title": "AKSTA Statistical Computing"
+                "title": "AKSTA Statistical Computing Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_972_j_id_54\",{id:\"j_id_2d:nodeTable:972:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:972:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "107.697",
@@ -843,7 +939,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=107697&semester=2021S",
                 "sem": "2021S",
-                "title": "AKSTA Theorie Statistischer Sch\u00e4tzung"
+                "title": "AKSTA Theorie Statistischer Sch\u00e4tzung Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_981_j_id_54\",{id:\"j_id_2d:nodeTable:981:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:981:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "105.701",
@@ -851,7 +947,7 @@
                 "kind": "SE",
                 "link": "/course/courseDetails.xhtml?courseNr=105701&semester=2021S",
                 "sem": "2021S",
-                "title": "AKSTA Seminar aus angewandter Statistik"
+                "title": "AKSTA Seminar aus angewandter Statistik Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_988_j_id_54\",{id:\"j_id_2d:nodeTable:988:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:988:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "107.397",
@@ -859,7 +955,7 @@
                 "kind": "UE",
                 "link": "/course/courseDetails.xhtml?courseNr=107397&semester=2021S",
                 "sem": "2021S",
-                "title": "Bayes-Statistik UE"
+                "title": "Bayes-Statistik UE Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1000_j_id_54\",{id:\"j_id_2d:nodeTable:1000:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1000:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "107.395",
@@ -867,7 +963,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=107395&semester=2021S",
                 "sem": "2021S",
-                "title": "Bayes-Statistik"
+                "title": "Bayes-Statistik Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1002_j_id_54\",{id:\"j_id_2d:nodeTable:1002:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1002:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "105.725",
@@ -875,7 +971,7 @@
                 "kind": "VU",
                 "link": "/course/courseDetails.xhtml?courseNr=105725&semester=2021S",
                 "sem": "2021S",
-                "title": "Allgemeine Regressionsmodelle"
+                "title": "Allgemeine Regressionsmodelle Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1004_j_id_54\",{id:\"j_id_2d:nodeTable:1004:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1004:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "107.134",
@@ -883,7 +979,7 @@
                 "kind": "PR",
                 "link": "/course/courseDetails.xhtml?courseNr=107134&semester=2021S",
                 "sem": "2021S",
-                "title": "AKSTA: Projektpraktikum aus Technischer Mathematik"
+                "title": "AKSTA: Projektpraktikum aus Technischer Mathematik Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1006_j_id_54\",{id:\"j_id_2d:nodeTable:1006:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1006:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "105.681",
@@ -891,7 +987,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=105681&semester=2021S",
                 "sem": "2021S",
-                "title": "AKSTA Nichtparametrische Methoden der Statistik"
+                "title": "AKSTA Nichtparametrische Methoden der Statistik Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1011_j_id_54\",{id:\"j_id_2d:nodeTable:1011:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1011:distanceLearningIcon\"});});"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Volkswirtschaftslehre (AKVWL)": [
@@ -901,7 +997,7 @@
                 "kind": "SE",
                 "link": "/course/courseDetails.xhtml?courseNr=175046&semester=2021S",
                 "sem": "2021S",
-                "title": "AKVWL Environmental and Population Economics"
+                "title": "AKVWL Environmental and Population Economics Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1031_j_id_54\",{id:\"j_id_2d:nodeTable:1031:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1031:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "105.687",
@@ -909,7 +1005,7 @@
                 "kind": "VU",
                 "link": "/course/courseDetails.xhtml?courseNr=105687&semester=2021S",
                 "sem": "2021S",
-                "title": "AKVWL Dynamic Macroeconomic Modelling"
+                "title": "AKVWL Dynamic Macroeconomic Modelling Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1036_j_id_54\",{id:\"j_id_2d:nodeTable:1036:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1036:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "105.626",
@@ -917,7 +1013,7 @@
                 "kind": "SE",
                 "link": "/course/courseDetails.xhtml?courseNr=105626&semester=2021S",
                 "sem": "2021S",
-                "title": "Agent Based Computational Economics abgesagt"
+                "title": "Agent Based Computational Economics Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1040_j_id_54\",{id:\"j_id_2d:nodeTable:1040:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1040:distanceLearningIcon\"});}); abgesagt"
             },
             {
                 "cnum": "105.622",
@@ -925,7 +1021,7 @@
                 "kind": "VU",
                 "link": "/course/courseDetails.xhtml?courseNr=105622&semester=2021S",
                 "sem": "2021S",
-                "title": "Computational Social Simulation"
+                "title": "Computational Social Simulation Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1044_j_id_54\",{id:\"j_id_2d:nodeTable:1044:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1044:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "105.723",
@@ -933,7 +1029,7 @@
                 "kind": "VU",
                 "link": "/course/courseDetails.xhtml?courseNr=105723&semester=2021S",
                 "sem": "2021S",
-                "title": "AKVWL Inequality in Macroeconomics"
+                "title": "AKVWL Inequality in Macroeconomics Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1058_j_id_54\",{id:\"j_id_2d:nodeTable:1058:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1058:distanceLearningIcon\"});});"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Wahrscheinlichkeitstheorie (AKWTH)": [
@@ -943,7 +1039,7 @@
                 "kind": "SE",
                 "link": "/course/courseDetails.xhtml?courseNr=105721&semester=2021S",
                 "sem": "2021S",
-                "title": "AKWTH Seminar aus Wahrscheinlichkeitstheorie"
+                "title": "AKWTH Seminar aus Wahrscheinlichkeitstheorie Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1065_j_id_54\",{id:\"j_id_2d:nodeTable:1065:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1065:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "107.939",
@@ -951,7 +1047,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=107939&semester=2021S",
                 "sem": "2021S",
-                "title": "AKOR AKWTH Warteschlangentheorie"
+                "title": "AKOR AKWTH Warteschlangentheorie Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1068_j_id_54\",{id:\"j_id_2d:nodeTable:1068:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1068:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "107.241",
@@ -959,7 +1055,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=107241&semester=2021S",
                 "sem": "2021S",
-                "title": "Theorie stochastischer Prozesse"
+                "title": "Theorie stochastischer Prozesse Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1076_j_id_54\",{id:\"j_id_2d:nodeTable:1076:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1076:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "107.317",
@@ -967,7 +1063,23 @@
                 "kind": "UE",
                 "link": "/course/courseDetails.xhtml?courseNr=107317&semester=2021S",
                 "sem": "2021S",
-                "title": "Theorie stochastischer Prozesse"
+                "title": "Theorie stochastischer Prozesse Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1078_j_id_54\",{id:\"j_id_2d:nodeTable:1078:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1078:distanceLearningIcon\"});});"
+            },
+            {
+                "cnum": "104.587",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104587&semester=2021S",
+                "sem": "2021S",
+                "title": "AKWTH Random Trees Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1083_j_id_54\",{id:\"j_id_2d:nodeTable:1083:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1083:distanceLearningIcon\"});});"
+            },
+            {
+                "cnum": "104.589",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104589&semester=2021S",
+                "sem": "2021S",
+                "title": "AKWTH Random Trees Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_1085_j_id_54\",{id:\"j_id_2d:nodeTable:1085:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:1085:distanceLearningIcon\"});});"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der \u00d6konometrie (AKOEK)": [
@@ -977,7 +1089,7 @@
                 "kind": "UE",
                 "link": "/course/courseDetails.xhtml?courseNr=105645&semester=2021S",
                 "sem": "2021S",
-                "title": "Station\u00e4re Prozesse und Zeitreihenanalyse"
+                "title": "Station\u00e4re Prozesse und Zeitreihenanalyse Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_905_j_id_54\",{id:\"j_id_2d:nodeTable:905:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:905:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "105.143",
@@ -985,7 +1097,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=105143&semester=2021S",
                 "sem": "2021S",
-                "title": "Station\u00e4re Prozesse und Zeitreihenanalyse"
+                "title": "Station\u00e4re Prozesse und Zeitreihenanalyse Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_907_j_id_54\",{id:\"j_id_2d:nodeTable:907:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:907:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "105.599",
@@ -993,7 +1105,7 @@
                 "kind": "UE",
                 "link": "/course/courseDetails.xhtml?courseNr=105599&semester=2021S",
                 "sem": "2021S",
-                "title": "Mikro\u00f6konometrie"
+                "title": "Mikro\u00f6konometrie Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_909_j_id_54\",{id:\"j_id_2d:nodeTable:909:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:909:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "105.126",
@@ -1001,7 +1113,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=105126&semester=2021S",
                 "sem": "2021S",
-                "title": "Mikro\u00f6konometrie"
+                "title": "Mikro\u00f6konometrie Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_911_j_id_54\",{id:\"j_id_2d:nodeTable:911:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:911:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "105.600",
@@ -1009,7 +1121,7 @@
                 "kind": "VU",
                 "link": "/course/courseDetails.xhtml?courseNr=105600&semester=2021S",
                 "sem": "2021S",
-                "title": "\u00d6konometrie 2"
+                "title": "\u00d6konometrie 2 Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_913_j_id_54\",{id:\"j_id_2d:nodeTable:913:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:913:distanceLearningIcon\"});});"
             }
         ],
         "Ausgew\u00e4hlte Kapitel des Operations Research (AKOR)": [
@@ -1019,7 +1131,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=110050&semester=2021S",
                 "sem": "2021S",
-                "title": "AKOR Nichtlineare Dynamische Systeme"
+                "title": "AKOR Nichtlineare Dynamische Systeme Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_931_j_id_54\",{id:\"j_id_2d:nodeTable:931:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:931:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "105.141",
@@ -1027,7 +1139,7 @@
                 "kind": "SE",
                 "link": "/course/courseDetails.xhtml?courseNr=105141&semester=2021S",
                 "sem": "2021S",
-                "title": "AKOR Seminar aus Operations Research"
+                "title": "AKOR Seminar aus Operations Research Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_934_j_id_54\",{id:\"j_id_2d:nodeTable:934:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:934:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "107.939",
@@ -1035,7 +1147,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=107939&semester=2021S",
                 "sem": "2021S",
-                "title": "AKOR AKWTH Warteschlangentheorie"
+                "title": "AKOR AKWTH Warteschlangentheorie Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_937_j_id_54\",{id:\"j_id_2d:nodeTable:937:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:937:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "105.655",
@@ -1043,7 +1155,7 @@
                 "kind": "UE",
                 "link": "/course/courseDetails.xhtml?courseNr=105655&semester=2021S",
                 "sem": "2021S",
-                "title": "Angewandtes Operations Research"
+                "title": "Angewandtes Operations Research Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_955_j_id_54\",{id:\"j_id_2d:nodeTable:955:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:955:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "105.654",
@@ -1051,7 +1163,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=105654&semester=2021S",
                 "sem": "2021S",
-                "title": "Angewandtes Operations Research"
+                "title": "Angewandtes Operations Research Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_957_j_id_54\",{id:\"j_id_2d:nodeTable:957:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:957:distanceLearningIcon\"});});"
             },
             {
                 "cnum": "105.161",
@@ -1059,7 +1171,7 @@
                 "kind": "VU",
                 "link": "/course/courseDetails.xhtml?courseNr=105161&semester=2021S",
                 "sem": "2021S",
-                "title": "AKOR Mengenwertige Analysis und dynamische Multi-Systeme"
+                "title": "AKOR Mengenwertige Analysis und dynamische Multi-Systeme Distance Learning: Lehrveranstaltung wird \u00fcberwiegend online abgehalten$(function(){PrimeFaces.cw(\"Tooltip\",\"widget_j_id_2d_nodeTable_962_j_id_54\",{id:\"j_id_2d:nodeTable:962:j_id_54\",showEffect:\"fade\",hideEffect:\"fade\",target:\"j_id_2d:nodeTable:962:distanceLearningIcon\"});});"
             }
         ]
     },
@@ -1067,5 +1179,5 @@
         "2021S",
         "2020S"
     ],
-    "updated": "Sonntag, 28. Februar 2021 22:00:38"
+    "updated": "Montag, 01. M\u00e4rz 2021 04:00:40"
 }

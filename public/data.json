@@ -784,6 +784,14 @@
                 "title": "AKLOG: Forschungsseminar Mengenlehre"
             },
             {
+                "cnum": "104.570",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=104570&semester=2021S",
+                "sem": "2021S",
+                "title": "AKLOG Forschungsseminar"
+            },
+            {
                 "cnum": "104.394",
                 "ects": "3.0",
                 "kind": "VU",
@@ -1013,7 +1021,7 @@
                 "kind": "SE",
                 "link": "/course/courseDetails.xhtml?courseNr=105626&semester=2021S",
                 "sem": "2021S",
-                "title": "Agent Based Computational Economics abgesagt"
+                "title": "Agent Based Computational Economics"
             },
             {
                 "cnum": "175.035",
@@ -1187,5 +1195,5 @@
         "2021S",
         "2020S"
     ],
-    "updated": "Freitag, 18. Juni 2021 04:00:36"
+    "updated": "Freitag, 18. Juni 2021 22:00:37"
 }

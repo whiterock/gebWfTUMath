@@ -176,6 +176,24 @@
                 "link": "/course/courseDetails.xhtml?courseNr=181142&semester=2021W",
                 "sem": "2021W",
                 "title": "Komplexit\u00e4tstheorie"
+            },
+            {
+                "cnum": "185.A12",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=185A12&semester=2021W",
+                "sem": "2021W",
+                "title": "Logikprogrammierung und Constraints"
+            }
+        ],
+        "Ausgew\u00e4hlte Kapitel der Logik (AKLOG)": [
+            {
+                "cnum": "118.051",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=118051&semester=2021W",
+                "sem": "2021W",
+                "title": "AKLOG. Seminar aus Logik"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Modellbildung und Simulation (AKMOD)": [
@@ -245,5 +263,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Montag, 16. August 2021 04:00:32"
+    "updated": "Montag, 16. August 2021 22:00:32"
 }

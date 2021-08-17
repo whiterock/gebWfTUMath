@@ -98,6 +98,32 @@
                 "title": "AKANW Dissipation and dispersion in nonlinear partial differential equations"
             }
         ],
+        "Ausgew\u00e4hlte Kapitel der Algebra (AKALG)": [
+            {
+                "cnum": "104.108",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=104108&semester=2021W",
+                "sem": "2021W",
+                "title": "AKALG: Forschungsseminar"
+            },
+            {
+                "cnum": "104.125",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104125&semester=2021W",
+                "sem": "2021W",
+                "title": "AKALG Algebra II"
+            },
+            {
+                "cnum": "104.127",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104127&semester=2021W",
+                "sem": "2021W",
+                "title": "AKALG Algebra II"
+            }
+        ],
         "Ausgew\u00e4hlte Kapitel der Analysis (AKANA)": [
             {
                 "cnum": "101.434",
@@ -132,6 +158,22 @@
                 "title": "Funktionalanalysis 2"
             },
             {
+                "cnum": "104.351",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104351&semester=2021W",
+                "sem": "2021W",
+                "title": "Geometrische Analysis"
+            },
+            {
+                "cnum": "104.355",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104355&semester=2021W",
+                "sem": "2021W",
+                "title": "Geometrische Analysis"
+            },
+            {
                 "cnum": "101.868",
                 "ects": "4.5",
                 "kind": "VO",
@@ -156,9 +198,41 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104131&semester=2021W",
                 "sem": "2021W",
                 "title": "AKDIS Seminar aus Kombinatorik"
+            },
+            {
+                "cnum": "104.347",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104347&semester=2021W",
+                "sem": "2021W",
+                "title": "Analyse von Algorithmen"
+            },
+            {
+                "cnum": "104.345",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104345&semester=2021W",
+                "sem": "2021W",
+                "title": "Analyse von Algorithmen"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Geometrie (AKGEO)": [
+            {
+                "cnum": "104.578",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104578&semester=2021W",
+                "sem": "2021W",
+                "title": "AKGEO Computer Aided Geometric Design"
+            },
+            {
+                "cnum": "104.579",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104579&semester=2021W",
+                "sem": "2021W",
+                "title": "AKGEO Computer Aided Geometric Design"
+            },
             {
                 "cnum": "104.362",
                 "ects": "3.0",
@@ -166,9 +240,49 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104362&semester=2021W",
                 "sem": "2021W",
                 "title": "AKGEO Seminar aus Differentialgeometrie"
+            },
+            {
+                "cnum": "104.355",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104355&semester=2021W",
+                "sem": "2021W",
+                "title": "Geometrische Analysis"
+            },
+            {
+                "cnum": "104.351",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104351&semester=2021W",
+                "sem": "2021W",
+                "title": "Geometrische Analysis"
+            },
+            {
+                "cnum": "104.360",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104360&semester=2021W",
+                "sem": "2021W",
+                "title": "Geometrische Datenverarbeitung"
+            },
+            {
+                "cnum": "104.359",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104359&semester=2021W",
+                "sem": "2021W",
+                "title": "Geometrische Datenverarbeitung"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Informatik (AKINF)": [
+            {
+                "cnum": "184.686",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=184686&semester=2021W",
+                "sem": "2021W",
+                "title": "Datenbanksysteme"
+            },
             {
                 "cnum": "181.142",
                 "ects": "3.0",
@@ -188,12 +302,52 @@
         ],
         "Ausgew\u00e4hlte Kapitel der Logik (AKLOG)": [
             {
+                "cnum": "108.030",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=108030&semester=2021W",
+                "sem": "2021W",
+                "title": "AKLOG: Lambda Kalk\u00fcl"
+            },
+            {
                 "cnum": "118.051",
                 "ects": "3.0",
                 "kind": "SE",
                 "link": "/course/courseDetails.xhtml?courseNr=118051&semester=2021W",
                 "sem": "2021W",
                 "title": "AKLOG. Seminar aus Logik"
+            },
+            {
+                "cnum": "118.131",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=118131&semester=2021W",
+                "sem": "2021W",
+                "title": "AKLOG. Beweistheorie 1"
+            },
+            {
+                "cnum": "104.570",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=104570&semester=2021W",
+                "sem": "2021W",
+                "title": "AKLOG Forschungsseminar"
+            },
+            {
+                "cnum": "104.342",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104342&semester=2021W",
+                "sem": "2021W",
+                "title": "Logik und Grundlagen der Mathematik UE"
+            },
+            {
+                "cnum": "104.340",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104340&semester=2021W",
+                "sem": "2021W",
+                "title": "Logik und Grundlagen der Mathematik"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Modellbildung und Simulation (AKMOD)": [
@@ -263,5 +417,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Dienstag, 17. August 2021 04:00:31"
+    "updated": "Dienstag, 17. August 2021 22:00:31"
 }

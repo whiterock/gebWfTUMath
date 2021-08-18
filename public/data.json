@@ -66,6 +66,14 @@
                 "title": "Photonik 1"
             },
             {
+                "cnum": "376.059",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=376059&semester=2021W",
+                "sem": "2021W",
+                "title": "Regelungssysteme 1"
+            },
+            {
                 "cnum": "387.083",
                 "ects": "4.5",
                 "kind": "VU",
@@ -214,6 +222,16 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104345&semester=2021W",
                 "sem": "2021W",
                 "title": "Analyse von Algorithmen"
+            }
+        ],
+        "Ausgew\u00e4hlte Kapitel der Finanz- und Versicherungsmathematik (AKFVM)": [
+            {
+                "cnum": "105.631",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105631&semester=2021W",
+                "sem": "2021W",
+                "title": "AKFVM Stochastische Analysis in Finanz- und Versicherungsmathematik 3"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Geometrie (AKGEO)": [
@@ -411,11 +429,21 @@
                 "sem": "2021W",
                 "title": "AKOEK Projekt aus \u00d6konometrie mit R"
             }
+        ],
+        "Ausgew\u00e4hlte Kapitel des Operations Research (AKOR)": [
+            {
+                "cnum": "370.058",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=370058&semester=2021W",
+                "sem": "2021W",
+                "title": "Elektrizit\u00e4ts- u. Wasserwirtschaft"
+            }
         ]
     },
     "sem": [
         "2021W",
         "2020W"
     ],
-    "updated": "Mittwoch, 18. August 2021 04:00:32"
+    "updated": "Mittwoch, 18. August 2021 22:00:32"
 }

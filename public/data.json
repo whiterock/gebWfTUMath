@@ -226,12 +226,172 @@
         ],
         "Ausgew\u00e4hlte Kapitel der Finanz- und Versicherungsmathematik (AKFVM)": [
             {
+                "cnum": "105.029",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=105029&semester=2021W",
+                "sem": "2021W",
+                "title": "AKFVM Ausgew\u00e4hlte Kapitel der Finanz- und Versicherungsmathematik"
+            },
+            {
+                "cnum": "105.062",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105062&semester=2021W",
+                "sem": "2021W",
+                "title": "AKFVM Versicherungswirtschaftslehre 2"
+            },
+            {
+                "cnum": "105.051",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=105051&semester=2021W",
+                "sem": "2021W",
+                "title": "AKFVM Versicherungs- und Finanzmathematik"
+            },
+            {
+                "cnum": "105.630",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105630&semester=2021W",
+                "sem": "2021W",
+                "title": "AKFVM Stochastische Analysis in Finanz- und Versicherungsmathematik 3"
+            },
+            {
+                "cnum": "105.635",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105635&semester=2021W",
+                "sem": "2021W",
+                "title": "AKVFM Gesamtbanksteuerung unter Basel III"
+            },
+            {
+                "cnum": "105.674",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=105674&semester=2021W",
+                "sem": "2021W",
+                "title": "AKFVM Seminar in Mathematical Finance and Probability"
+            },
+            {
+                "cnum": "105.673",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=105673&semester=2021W",
+                "sem": "2021W",
+                "title": "AKOEK/AKFVM Ausgew\u00e4hlte Kapitel aus \u00d6konometrie, Finanz- und Versicherungsmathematik"
+            },
+            {
+                "cnum": "105.688",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105688&semester=2021W",
+                "sem": "2021W",
+                "title": "AKFVM Limit Orderbuch und Hochfrequenzhandel"
+            },
+            {
                 "cnum": "105.631",
                 "ects": "1.5",
                 "kind": "UE",
                 "link": "/course/courseDetails.xhtml?courseNr=105631&semester=2021W",
                 "sem": "2021W",
                 "title": "AKFVM Stochastische Analysis in Finanz- und Versicherungsmathematik 3"
+            },
+            {
+                "cnum": "105.639",
+                "ects": "4.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105639&semester=2021W",
+                "sem": "2021W",
+                "title": "Zinsstrukturmodelle und -derivate"
+            },
+            {
+                "cnum": "105.053",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105053&semester=2021W",
+                "sem": "2021W",
+                "title": "Stochastische Kontrolltheorie f\u00fcr FVM"
+            },
+            {
+                "cnum": "105.089",
+                "ects": "2.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105089&semester=2021W",
+                "sem": "2021W",
+                "title": "Stochastische Analysis f\u00fcr FVM 1"
+            },
+            {
+                "cnum": "105.653",
+                "ects": "5.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105653&semester=2021W",
+                "sem": "2021W",
+                "title": "Stochastische Analysis f\u00fcr FVM 1"
+            },
+            {
+                "cnum": "105.041",
+                "ects": "3.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105041&semester=2021W",
+                "sem": "2021W",
+                "title": "Risiko- und Ruintheorie"
+            },
+            {
+                "cnum": "105.638",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105638&semester=2021W",
+                "sem": "2021W",
+                "title": "Risiko- und Ruintheorie"
+            },
+            {
+                "cnum": "105.602",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105602&semester=2021W",
+                "sem": "2021W",
+                "title": "Personenversicherungsmathematik"
+            },
+            {
+                "cnum": "105.601",
+                "ects": "6.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105601&semester=2021W",
+                "sem": "2021W",
+                "title": "Personenversicherungsmathematik"
+            },
+            {
+                "cnum": "105.643",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105643&semester=2021W",
+                "sem": "2021W",
+                "title": "Aktuarielle Modellierung"
+            },
+            {
+                "cnum": "105.048",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105048&semester=2021W",
+                "sem": "2021W",
+                "title": "Lebensversicherungsmathematik"
+            },
+            {
+                "cnum": "105.591",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105591&semester=2021W",
+                "sem": "2021W",
+                "title": "Lebensversicherungsmathematik"
+            },
+            {
+                "cnum": "265.003",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=265003&semester=2021W",
+                "sem": "2021W",
+                "title": "Privates Wirtschaftsrecht"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Geometrie (AKGEO)": [
@@ -316,6 +476,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=185A12&semester=2021W",
                 "sem": "2021W",
                 "title": "Logikprogrammierung und Constraints"
+            },
+            {
+                "cnum": "184.702",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=184702&semester=2021W",
+                "sem": "2021W",
+                "title": "Machine Learning"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Logik (AKLOG)": [
@@ -420,7 +588,229 @@
                 "title": "AKANA Theorie der Distributionen"
             }
         ],
+        "Ausgew\u00e4hlte Kapitel der Statistik (AKSTA)": [
+            {
+                "cnum": "107.805",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=107805&semester=2021W",
+                "sem": "2021W",
+                "title": "AKSTA.Seminar in Computerstatistik"
+            },
+            {
+                "cnum": "107.391",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=107391&semester=2021W",
+                "sem": "2021W",
+                "title": "Multivariate Statistik"
+            },
+            {
+                "cnum": "107.388",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=107388&semester=2021W",
+                "sem": "2021W",
+                "title": "Multivariate Statistik"
+            },
+            {
+                "cnum": "107.330",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=107330&semester=2021W",
+                "sem": "2021W",
+                "title": "Statistische Simulation und computerintensive Methoden"
+            },
+            {
+                "cnum": "107.134",
+                "ects": "7.5",
+                "kind": "PR",
+                "link": "/course/courseDetails.xhtml?courseNr=107134&semester=2021W",
+                "sem": "2021W",
+                "title": "AKSTA: Projektpraktikum aus Technischer Mathematik"
+            },
+            {
+                "cnum": "107.386",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=107386&semester=2021W",
+                "sem": "2021W",
+                "title": "Klassifikation und Diskriminanzanalyse"
+            },
+            {
+                "cnum": "105.707",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105707&semester=2021W",
+                "sem": "2021W",
+                "title": "Advanced Methods for Regression and Classification"
+            }
+        ],
+        "Ausgew\u00e4hlte Kapitel der Volkswirtschaftslehre (AKVWL)": [
+            {
+                "cnum": "175.868",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=175868&semester=2021W",
+                "sem": "2021W",
+                "title": "AKVWL Environmental and Population Economics"
+            },
+            {
+                "cnum": "105.647",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105647&semester=2021W",
+                "sem": "2021W",
+                "title": "Dynamische Makro\u00f6konomie"
+            },
+            {
+                "cnum": "105.646",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105646&semester=2021W",
+                "sem": "2021W",
+                "title": "Dynamische Makro\u00f6konomie"
+            },
+            {
+                "cnum": "175.024",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=175024&semester=2021W",
+                "sem": "2021W",
+                "title": "Political Economy of Europe"
+            }
+        ],
+        "Ausgew\u00e4hlte Kapitel der Wahrscheinlichkeitstheorie (AKWTH)": [
+            {
+                "cnum": "105.721",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=105721&semester=2021W",
+                "sem": "2021W",
+                "title": "AKWTH Seminar aus Wahrscheinlichkeitstheorie"
+            },
+            {
+                "cnum": "107.A26",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=107A26&semester=2021W",
+                "sem": "2021W",
+                "title": "H\u00f6here Wahrscheinlichkeitstheorie"
+            },
+            {
+                "cnum": "105.688",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105688&semester=2021W",
+                "sem": "2021W",
+                "title": "AKFVM Limit Orderbuch und Hochfrequenzhandel"
+            },
+            {
+                "cnum": "105.638",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105638&semester=2021W",
+                "sem": "2021W",
+                "title": "Risiko- und Ruintheorie"
+            },
+            {
+                "cnum": "105.041",
+                "ects": "3.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105041&semester=2021W",
+                "sem": "2021W",
+                "title": "Risiko- und Ruintheorie"
+            },
+            {
+                "cnum": "105.674",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=105674&semester=2021W",
+                "sem": "2021W",
+                "title": "AKFVM Seminar in Mathematical Finance and Probability"
+            },
+            {
+                "cnum": "105.653",
+                "ects": "5.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105653&semester=2021W",
+                "sem": "2021W",
+                "title": "Stochastische Analysis f\u00fcr FVM 1"
+            },
+            {
+                "cnum": "105.089",
+                "ects": "2.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105089&semester=2021W",
+                "sem": "2021W",
+                "title": "Stochastische Analysis f\u00fcr FVM 1"
+            },
+            {
+                "cnum": "105.630",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105630&semester=2021W",
+                "sem": "2021W",
+                "title": "AKFVM Stochastische Analysis in Finanz- und Versicherungsmathematik 3"
+            },
+            {
+                "cnum": "105.631",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105631&semester=2021W",
+                "sem": "2021W",
+                "title": "AKFVM Stochastische Analysis in Finanz- und Versicherungsmathematik 3"
+            },
+            {
+                "cnum": "105.053",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105053&semester=2021W",
+                "sem": "2021W",
+                "title": "Stochastische Kontrolltheorie f\u00fcr FVM"
+            },
+            {
+                "cnum": "101.868",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101868&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANA Stochastische Differentialgleichungen u. ihre Numerik"
+            },
+            {
+                "cnum": "101.869",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=101869&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANA Stochastische Differentialgleichungen u. ihre Numerik"
+            }
+        ],
         "Ausgew\u00e4hlte Kapitel der \u00d6konometrie (AKOEK)": [
+            {
+                "cnum": "119.031",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=119031&semester=2021W",
+                "sem": "2021W",
+                "title": "AKOEK \u00d6konometrie d. Finanzm\u00e4rkte"
+            },
+            {
+                "cnum": "109.002",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=109002&semester=2021W",
+                "sem": "2021W",
+                "title": "AKOEK Seminar aus Angewandter \u00d6konometrie"
+            },
+            {
+                "cnum": "105.673",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=105673&semester=2021W",
+                "sem": "2021W",
+                "title": "AKOEK/AKFVM Ausgew\u00e4hlte Kapitel aus \u00d6konometrie, Finanz- und Versicherungsmathematik"
+            },
             {
                 "cnum": "105.651",
                 "ects": "6.0",
@@ -445,5 +835,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Donnerstag, 19. August 2021 04:00:34"
+    "updated": "Donnerstag, 19. August 2021 22:00:31"
 }

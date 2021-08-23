@@ -74,6 +74,14 @@
                 "title": "Regelungssysteme 1"
             },
             {
+                "cnum": "376.062",
+                "ects": "4.5",
+                "kind": "LU",
+                "link": "/course/courseDetails.xhtml?courseNr=376062&semester=2021W",
+                "sem": "2021W",
+                "title": "Labor Regelungssysteme 2"
+            },
+            {
                 "cnum": "387.083",
                 "ects": "4.5",
                 "kind": "VU",
@@ -96,6 +104,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=389064&semester=2021W",
                 "sem": "2021W",
                 "title": "Wellenausbreitung"
+            },
+            {
+                "cnum": "376.061",
+                "ects": "1.5",
+                "kind": "LU",
+                "link": "/course/courseDetails.xhtml?courseNr=376061&semester=2021W",
+                "sem": "2021W",
+                "title": "Labor Regelungssysteme 1"
+            },
+            {
+                "cnum": "101.647",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=101647&semester=2021W",
+                "sem": "2021W",
+                "title": "AKBIO: H\u00f6rtheorie"
             },
             {
                 "cnum": "101.542",
@@ -180,6 +204,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104355&semester=2021W",
                 "sem": "2021W",
                 "title": "Geometrische Analysis"
+            },
+            {
+                "cnum": "101.502",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=101502&semester=2021W",
+                "sem": "2021W",
+                "title": "Modellierung mit part. Differentialgleichungen"
             },
             {
                 "cnum": "101.868",
@@ -560,6 +592,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101759&semester=2021W",
                 "sem": "2021W",
                 "title": "AKMOD: Modellbildung und Simulation dynamischer Systeme"
+            },
+            {
+                "cnum": "101.502",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=101502&semester=2021W",
+                "sem": "2021W",
+                "title": "Modellierung mit part. Differentialgleichungen"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Numerischen Mathematik (AKNUM)": [
@@ -835,5 +875,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Montag, 23. August 2021 04:00:31"
+    "updated": "Montag, 23. August 2021 22:00:36"
 }

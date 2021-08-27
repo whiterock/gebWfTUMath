@@ -630,6 +630,14 @@
         ],
         "Ausgew\u00e4hlte Kapitel der Statistik (AKSTA)": [
             {
+                "cnum": "107.175",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=107175&semester=2021W",
+                "sem": "2021W",
+                "title": "AKSTA Seminar aus Stochastik"
+            },
+            {
                 "cnum": "107.805",
                 "ects": "3.0",
                 "kind": "SE",
@@ -875,5 +883,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Freitag, 27. August 2021 04:00:33"
+    "updated": "Freitag, 27. August 2021 22:00:36"
 }

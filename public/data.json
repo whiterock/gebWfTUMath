@@ -870,6 +870,14 @@
         ],
         "Ausgew\u00e4hlte Kapitel des Operations Research (AKOR)": [
             {
+                "cnum": "194.076",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=194076&semester=2021W",
+                "sem": "2021W",
+                "title": "Modeling and Simulation"
+            },
+            {
                 "cnum": "370.058",
                 "ects": "3.0",
                 "kind": "VO",
@@ -883,5 +891,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Montag, 30. August 2021 04:00:33"
+    "updated": "Montag, 30. August 2021 22:00:35"
 }

@@ -138,22 +138,6 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104108&semester=2021W",
                 "sem": "2021W",
                 "title": "AKALG: Forschungsseminar"
-            },
-            {
-                "cnum": "104.125",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=104125&semester=2021W",
-                "sem": "2021W",
-                "title": "AKALG Algebra II"
-            },
-            {
-                "cnum": "104.127",
-                "ects": "1.5",
-                "kind": "UE",
-                "link": "/course/courseDetails.xhtml?courseNr=104127&semester=2021W",
-                "sem": "2021W",
-                "title": "AKALG Algebra II"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Analysis (AKANA)": [
@@ -485,6 +469,14 @@
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Informatik (AKINF)": [
+            {
+                "cnum": "186.814",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=186814&semester=2021W",
+                "sem": "2021W",
+                "title": "Algorithmics"
+            },
             {
                 "cnum": "184.686",
                 "ects": "6.0",
@@ -891,5 +883,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Dienstag, 31. August 2021 04:00:36"
+    "updated": "Dienstag, 31. August 2021 22:00:35"
 }

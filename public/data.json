@@ -486,6 +486,14 @@
                 "title": "Datenbanksysteme"
             },
             {
+                "cnum": "185.A03",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=185A03&semester=2021W",
+                "sem": "2021W",
+                "title": "Funktionale Programmierung"
+            },
+            {
                 "cnum": "181.142",
                 "ects": "3.0",
                 "kind": "VU",
@@ -883,5 +891,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Donnerstag, 02. September 2021 04:00:32"
+    "updated": "Donnerstag, 02. September 2021 22:00:33"
 }

@@ -720,6 +720,22 @@
                 "title": "Dynamische Makro\u00f6konomie"
             },
             {
+                "cnum": "105.650",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105650&semester=2021W",
+                "sem": "2021W",
+                "title": "Spieltheoretische Modellierung"
+            },
+            {
+                "cnum": "105.649",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105649&semester=2021W",
+                "sem": "2021W",
+                "title": "Spieltheoretische Modellierung"
+            },
+            {
                 "cnum": "175.024",
                 "ects": "3.0",
                 "kind": "VO",
@@ -744,6 +760,30 @@
                 "link": "/course/courseDetails.xhtml?courseNr=107A26&semester=2021W",
                 "sem": "2021W",
                 "title": "H\u00f6here Wahrscheinlichkeitstheorie"
+            },
+            {
+                "cnum": "107.A27",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=107A27&semester=2021W",
+                "sem": "2021W",
+                "title": "H\u00f6here Wahrscheinlichkeitstheorie"
+            },
+            {
+                "cnum": "107.A16",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=107A16&semester=2021W",
+                "sem": "2021W",
+                "title": "Elemente der Mathematischen Stochastik"
+            },
+            {
+                "cnum": "107.A17",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=107A17&semester=2021W",
+                "sem": "2021W",
+                "title": "Elemente der Mathematischen Stochastik"
             },
             {
                 "cnum": "105.688",
@@ -870,6 +910,14 @@
         ],
         "Ausgew\u00e4hlte Kapitel des Operations Research (AKOR)": [
             {
+                "cnum": "110.198",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=110198&semester=2021W",
+                "sem": "2021W",
+                "title": "AKOR Graphentheoretische Methoden des Operations Research"
+            },
+            {
                 "cnum": "194.076",
                 "ects": "3.0",
                 "kind": "VU",
@@ -884,6 +932,38 @@
                 "link": "/course/courseDetails.xhtml?courseNr=370058&semester=2021W",
                 "sem": "2021W",
                 "title": "Elektrizit\u00e4ts- u. Wasserwirtschaft"
+            },
+            {
+                "cnum": "105.658",
+                "ects": "7.5",
+                "kind": "PR",
+                "link": "/course/courseDetails.xhtml?courseNr=105658&semester=2021W",
+                "sem": "2021W",
+                "title": "AKOR Projekt aus Operations Research"
+            },
+            {
+                "cnum": "110.209",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=110209&semester=2021W",
+                "sem": "2021W",
+                "title": "AKOR Graphentheoretische Methoden des Operations Research"
+            },
+            {
+                "cnum": "105.649",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105649&semester=2021W",
+                "sem": "2021W",
+                "title": "Spieltheoretische Modellierung"
+            },
+            {
+                "cnum": "105.650",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105650&semester=2021W",
+                "sem": "2021W",
+                "title": "Spieltheoretische Modellierung"
             }
         ]
     },
@@ -891,5 +971,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Montag, 06. September 2021 04:00:35"
+    "updated": "Montag, 06. September 2021 22:00:34"
 }

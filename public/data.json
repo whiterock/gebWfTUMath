@@ -516,6 +516,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=184702&semester=2021W",
                 "sem": "2021W",
                 "title": "Machine Learning"
+            },
+            {
+                "cnum": "183.286",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=183286&semester=2021W",
+                "sem": "2021W",
+                "title": "(Mobile) Network Services and Applications"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Logik (AKLOG)": [
@@ -971,5 +979,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Donnerstag, 09. September 2021 04:00:32"
+    "updated": "Donnerstag, 09. September 2021 22:00:34"
 }

@@ -114,6 +114,14 @@
                 "title": "Labor Regelungssysteme 1"
             },
             {
+                "cnum": "101.722",
+                "ects": "7.5",
+                "kind": "PR",
+                "link": "/course/courseDetails.xhtml?courseNr=101722&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANW: Projektpraktikum aus Techn.Mathematik Maschinelles Lernen: Theorie und Anwendung"
+            },
+            {
                 "cnum": "101.647",
                 "ects": "3.0",
                 "kind": "SE",
@@ -188,6 +196,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104355&semester=2021W",
                 "sem": "2021W",
                 "title": "Geometrische Analysis"
+            },
+            {
+                "cnum": "101.500",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101500&semester=2021W",
+                "sem": "2021W",
+                "title": "Modellierung mit part. Differentialgleichungen"
             },
             {
                 "cnum": "101.502",
@@ -510,6 +526,14 @@
                 "title": "Logikprogrammierung und Constraints"
             },
             {
+                "cnum": "185.291",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=185291&semester=2021W",
+                "sem": "2021W",
+                "title": "Formale Methoden der Informatik"
+            },
+            {
                 "cnum": "184.702",
                 "ects": "4.5",
                 "kind": "VU",
@@ -608,9 +632,41 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101502&semester=2021W",
                 "sem": "2021W",
                 "title": "Modellierung mit part. Differentialgleichungen"
+            },
+            {
+                "cnum": "101.500",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101500&semester=2021W",
+                "sem": "2021W",
+                "title": "Modellierung mit part. Differentialgleichungen"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Numerischen Mathematik (AKNUM)": [
+            {
+                "cnum": "101.696",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=101696&semester=2021W",
+                "sem": "2021W",
+                "title": "AKNUM Maschinelles Lernen"
+            },
+            {
+                "cnum": "101.507",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=101507&semester=2021W",
+                "sem": "2021W",
+                "title": "Numerik partieller Differentialgleichungen: station\u00e4re Probleme"
+            },
+            {
+                "cnum": "101.506",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101506&semester=2021W",
+                "sem": "2021W",
+                "title": "Numerik partieller Differentialgleichungen: station\u00e4re Probleme"
+            },
             {
                 "cnum": "101.473",
                 "ects": "7.5",
@@ -634,6 +690,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101873&semester=2021W",
                 "sem": "2021W",
                 "title": "AKANA Theorie der Distributionen"
+            },
+            {
+                "cnum": "101.879",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=101879&semester=2021W",
+                "sem": "2021W",
+                "title": "AKNUM Advanced Reinforcement Learning"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Statistik (AKSTA)": [
@@ -979,5 +1043,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Freitag, 10. September 2021 04:00:35"
+    "updated": "Freitag, 10. September 2021 22:00:34"
 }

@@ -526,6 +526,14 @@
                 "title": "Logikprogrammierung und Constraints"
             },
             {
+                "cnum": "184.067",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=184067&semester=2021W",
+                "sem": "2021W",
+                "title": "Seminar aus Theoretischer Informatik"
+            },
+            {
                 "cnum": "185.291",
                 "ects": "6.0",
                 "kind": "VU",
@@ -1043,5 +1051,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Freitag, 10. September 2021 22:00:34"
+    "updated": "Samstag, 11. September 2021 04:00:34"
 }

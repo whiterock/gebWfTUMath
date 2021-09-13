@@ -526,6 +526,14 @@
                 "title": "Logikprogrammierung und Constraints"
             },
             {
+                "cnum": "184.188",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=184188&semester=2021W",
+                "sem": "2021W",
+                "title": "Nichtmonotones Schlie\u00dfen"
+            },
+            {
                 "cnum": "184.067",
                 "ects": "3.0",
                 "kind": "SE",
@@ -1051,5 +1059,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Montag, 13. September 2021 04:00:34"
+    "updated": "Montag, 13. September 2021 22:00:39"
 }

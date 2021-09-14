@@ -106,6 +106,22 @@
                 "title": "Wellenausbreitung"
             },
             {
+                "cnum": "130.007",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=130007&semester=2021W",
+                "sem": "2021W",
+                "title": "Technische Mechanik f\u00fcr TPH"
+            },
+            {
+                "cnum": "130.009",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=130009&semester=2021W",
+                "sem": "2021W",
+                "title": "Analytische Mechanik f\u00fcr TPH"
+            },
+            {
                 "cnum": "376.061",
                 "ects": "1.5",
                 "kind": "LU",
@@ -1059,5 +1075,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Dienstag, 14. September 2021 04:00:35"
+    "updated": "Dienstag, 14. September 2021 22:00:37"
 }

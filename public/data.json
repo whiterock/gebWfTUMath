@@ -10,6 +10,30 @@
                 "title": "Einf.i.d.Allgemeine Relativit\u00e4tstheorie"
             },
             {
+                "cnum": "136.018",
+                "ects": "4.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=136018&semester=2021W",
+                "sem": "2021W",
+                "title": "Elektrodynamik II"
+            },
+            {
+                "cnum": "136.047",
+                "ects": "2.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=136047&semester=2021W",
+                "sem": "2021W",
+                "title": "Elektrodynamik II"
+            },
+            {
+                "cnum": "138.024",
+                "ects": "4.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=138024&semester=2021W",
+                "sem": "2021W",
+                "title": "Festk\u00f6rperphysik II"
+            },
+            {
                 "cnum": "136.008",
                 "ects": "3.0",
                 "kind": "VO",
@@ -72,6 +96,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=376059&semester=2021W",
                 "sem": "2021W",
                 "title": "Regelungssysteme 1"
+            },
+            {
+                "cnum": "136.019",
+                "ects": "10.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=136019&semester=2021W",
+                "sem": "2021W",
+                "title": "Quantentheorie I"
+            },
+            {
+                "cnum": "136.027",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=136027&semester=2021W",
+                "sem": "2021W",
+                "title": "Quantentheorie II"
             },
             {
                 "cnum": "376.062",
@@ -244,6 +284,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101869&semester=2021W",
                 "sem": "2021W",
                 "title": "AKANA Stochastische Differentialgleichungen u. ihre Numerik"
+            },
+            {
+                "cnum": "104.593",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=104593&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANA AKGEO Geometrische Bewertungstheorie"
+            },
+            {
+                "cnum": "104.595",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104595&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANA AKGEO Kr\u00fcmmungsgleichungen"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Diskreten Mathematik (AKDIS)": [
@@ -270,6 +326,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104345&semester=2021W",
                 "sem": "2021W",
                 "title": "Analyse von Algorithmen"
+            },
+            {
+                "cnum": "104.597",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104597&semester=2021W",
+                "sem": "2021W",
+                "title": "AKDIS Kombinatorik orthogonaler Polynome, Haufen und Wachstumsdiagramme"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Finanz- und Versicherungsmathematik (AKFVM)": [
@@ -440,6 +504,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=265003&semester=2021W",
                 "sem": "2021W",
                 "title": "Privates Wirtschaftsrecht"
+            },
+            {
+                "cnum": "105.734",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105734&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANA AKFVM AKNUM AKWTH Monte-Carlo Methoden"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Geometrie (AKGEO)": [
@@ -572,6 +644,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=184702&semester=2021W",
                 "sem": "2021W",
                 "title": "Machine Learning"
+            },
+            {
+                "cnum": "191.125",
+                "ects": "2.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=191125&semester=2021W",
+                "sem": "2021W",
+                "title": "Scientific Programming with Python"
             },
             {
                 "cnum": "183.286",
@@ -730,6 +810,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101879&semester=2021W",
                 "sem": "2021W",
                 "title": "AKNUM Advanced Reinforcement Learning"
+            },
+            {
+                "cnum": "101.929",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101929&semester=2021W",
+                "sem": "2021W",
+                "title": "AKNUM Modellierung nichtlinearer gekoppelter Feldprobleme"
+            },
+            {
+                "cnum": "101.930",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=101930&semester=2021W",
+                "sem": "2021W",
+                "title": "AKNUM Modellierung nichtlinearer gekoppelter Feldprobleme"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Statistik (AKSTA)": [
@@ -796,6 +892,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=105707&semester=2021W",
                 "sem": "2021W",
                 "title": "Advanced Methods for Regression and Classification"
+            },
+            {
+                "cnum": "105.735",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105735&semester=2021W",
+                "sem": "2021W",
+                "title": "AKSTA Fallstudien in Statistik"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Volkswirtschaftslehre (AKVWL)": [
@@ -1075,5 +1179,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Mittwoch, 15. September 2021 04:00:33"
+    "updated": "Mittwoch, 15. September 2021 22:00:36"
 }

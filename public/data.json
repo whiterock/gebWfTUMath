@@ -1118,6 +1118,14 @@
         ],
         "Ausgew\u00e4hlte Kapitel des Operations Research (AKOR)": [
             {
+                "cnum": "110.043",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=110043&semester=2021W",
+                "sem": "2021W",
+                "title": "AKOR Math. Drogenmodelle - Initiation, Pr\u00e4vention u. Therapie"
+            },
+            {
                 "cnum": "110.198",
                 "ects": "3.0",
                 "kind": "VO",
@@ -1140,6 +1148,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=370058&semester=2021W",
                 "sem": "2021W",
                 "title": "Elektrizit\u00e4ts- u. Wasserwirtschaft"
+            },
+            {
+                "cnum": "105.652",
+                "ects": "2.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105652&semester=2021W",
+                "sem": "2021W",
+                "title": "Nichtlineare Optimierung"
+            },
+            {
+                "cnum": "105.147",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105147&semester=2021W",
+                "sem": "2021W",
+                "title": "Nichtlineare Optimierung"
             },
             {
                 "cnum": "105.658",
@@ -1179,5 +1203,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Dienstag, 21. September 2021 04:00:32"
+    "updated": "Dienstag, 21. September 2021 22:00:34"
 }

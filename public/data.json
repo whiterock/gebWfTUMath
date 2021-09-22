@@ -570,6 +570,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104359&semester=2021W",
                 "sem": "2021W",
                 "title": "Geometrische Datenverarbeitung"
+            },
+            {
+                "cnum": "111.092",
+                "ects": "7.5",
+                "kind": "PR",
+                "link": "/course/courseDetails.xhtml?courseNr=111092&semester=2021W",
+                "sem": "2021W",
+                "title": "AKGEO Projektpraktikum aus Technischer Mathematik"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Informatik (AKINF)": [
@@ -1203,5 +1211,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Mittwoch, 22. September 2021 04:00:33"
+    "updated": "Mittwoch, 22. September 2021 22:00:38"
 }

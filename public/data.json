@@ -275,7 +275,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=101868&semester=2021W",
                 "sem": "2021W",
-                "title": "AKANA Stochastische Differentialgleichungen u. ihre Numerik"
+                "title": "AKANA AKWTH AKNUM Stochastische Differentialgleichungen und ihre Numerik"
             },
             {
                 "cnum": "101.869",
@@ -283,7 +283,7 @@
                 "kind": "UE",
                 "link": "/course/courseDetails.xhtml?courseNr=101869&semester=2021W",
                 "sem": "2021W",
-                "title": "AKANA Stochastische Differentialgleichungen u. ihre Numerik"
+                "title": "AKANA AKWTH AKNUM Stochastische Differentialgleichungen und ihre Numerik"
             },
             {
                 "cnum": "104.593",
@@ -1079,7 +1079,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=101868&semester=2021W",
                 "sem": "2021W",
-                "title": "AKANA Stochastische Differentialgleichungen u. ihre Numerik"
+                "title": "AKANA AKWTH AKNUM Stochastische Differentialgleichungen und ihre Numerik"
             },
             {
                 "cnum": "101.869",
@@ -1087,7 +1087,7 @@
                 "kind": "UE",
                 "link": "/course/courseDetails.xhtml?courseNr=101869&semester=2021W",
                 "sem": "2021W",
-                "title": "AKANA Stochastische Differentialgleichungen u. ihre Numerik"
+                "title": "AKANA AKWTH AKNUM Stochastische Differentialgleichungen und ihre Numerik"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der \u00d6konometrie (AKOEK)": [
@@ -1211,5 +1211,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Freitag, 24. September 2021 04:00:33"
+    "updated": "Freitag, 24. September 2021 22:00:37"
 }

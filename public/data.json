@@ -202,9 +202,25 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104108&semester=2021W",
                 "sem": "2021W",
                 "title": "AKALG: Forschungsseminar"
+            },
+            {
+                "cnum": "104.601",
+                "ects": "1.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104601&semester=2021W",
+                "sem": "2021W",
+                "title": "AKLOG Einf\u00fchrung in die Modelltheorie"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Analysis (AKANA)": [
+            {
+                "cnum": "101.935",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=101935&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANA Seminar aus partiellen Differentialgleichungen (Hamilton-Jacobi Gleichungen)"
+            },
             {
                 "cnum": "101.434",
                 "ects": "3.0",
@@ -284,6 +300,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101869&semester=2021W",
                 "sem": "2021W",
                 "title": "AKANA AKWTH AKNUM Stochastische Differentialgleichungen und ihre Numerik"
+            },
+            {
+                "cnum": "101.927",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=101927&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANA AKNUM Von Schauderbasen bis Wavelets"
+            },
+            {
+                "cnum": "101.928",
+                "ects": "1.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101928&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANA Kompakte Operatoren: Selected Topics"
             },
             {
                 "cnum": "104.593",
@@ -1211,5 +1243,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Montag, 27. September 2021 04:00:35"
+    "updated": "Montag, 27. September 2021 22:00:35"
 }

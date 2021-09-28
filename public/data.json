@@ -192,6 +192,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101542&semester=2021W",
                 "sem": "2021W",
                 "title": "AKANW Dissipation and dispersion in nonlinear partial differential equations"
+            },
+            {
+                "cnum": "107.303",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=107303&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANW: Fuzzy Modelle"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Algebra (AKALG)": [
@@ -332,6 +340,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104595&semester=2021W",
                 "sem": "2021W",
                 "title": "AKANA AKGEO Kr\u00fcmmungsgleichungen"
+            },
+            {
+                "cnum": "105.734",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105734&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANA AKFVM AKNUM AKWTH Monte-Carlo Methoden"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Diskreten Mathematik (AKDIS)": [
@@ -866,6 +882,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101930&semester=2021W",
                 "sem": "2021W",
                 "title": "AKNUM Modellierung nichtlinearer gekoppelter Feldprobleme"
+            },
+            {
+                "cnum": "105.734",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105734&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANA AKFVM AKNUM AKWTH Monte-Carlo Methoden"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Statistik (AKSTA)": [
@@ -1120,6 +1144,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101869&semester=2021W",
                 "sem": "2021W",
                 "title": "AKANA AKWTH AKNUM Stochastische Differentialgleichungen und ihre Numerik"
+            },
+            {
+                "cnum": "105.734",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105734&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANA AKFVM AKNUM AKWTH Monte-Carlo Methoden"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der \u00d6konometrie (AKOEK)": [
@@ -1243,5 +1275,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Dienstag, 28. September 2021 04:00:35"
+    "updated": "Dienstag, 28. September 2021 22:00:35"
 }

@@ -348,6 +348,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=105734&semester=2021W",
                 "sem": "2021W",
                 "title": "AKANA AKFVM AKNUM AKWTH Monte-Carlo Methoden"
+            },
+            {
+                "cnum": "101.329",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101329&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANA Differentialgleichungen 2"
+            },
+            {
+                "cnum": "101.314",
+                "ects": "2.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=101314&semester=2021W",
+                "sem": "2021W",
+                "title": "AKANA Differentialgleichungen 2"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Diskreten Mathematik (AKDIS)": [
@@ -1275,5 +1291,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Donnerstag, 07. Oktober 2021 04:00:38"
+    "updated": "Donnerstag, 07. Oktober 2021 22:00:35"
 }

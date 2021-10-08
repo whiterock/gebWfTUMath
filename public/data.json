@@ -439,7 +439,7 @@
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=105635&semester=2021W",
                 "sem": "2021W",
-                "title": "AKVFM Gesamtbanksteuerung unter Basel III"
+                "title": "AKFVM Gesamtbanksteuerung unter Basel III"
             },
             {
                 "cnum": "105.674",
@@ -1291,5 +1291,5 @@
         "2021W",
         "2020W"
     ],
-    "updated": "Freitag, 08. Oktober 2021 04:00:36"
+    "updated": "Freitag, 08. Oktober 2021 22:00:34"
 }

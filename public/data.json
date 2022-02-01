@@ -18,6 +18,14 @@
                 "title": "Angewandte Dynamik und nichtlineare Schwingungen"
             },
             {
+                "cnum": "322.074",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=322074&semester=2022S",
+                "sem": "2022S",
+                "title": "Asymptotische Methoden in der Str\u00f6mungslehre"
+            },
+            {
                 "cnum": "142.086",
                 "ects": "3.0",
                 "kind": "VO",
@@ -48,6 +56,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=309029&semester=2022S",
                 "sem": "2022S",
                 "title": "Grundlagen d. Mehrk\u00f6rpersystemdynamik"
+            },
+            {
+                "cnum": "319.030",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=319030&semester=2022S",
+                "sem": "2022S",
+                "title": "Mehrphasensysteme"
+            },
+            {
+                "cnum": "322.054",
+                "ects": "2.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=322054&semester=2022S",
+                "sem": "2022S",
+                "title": "Mehrphasensysteme"
             },
             {
                 "cnum": "389.055",
@@ -689,5 +713,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Dienstag, 01. Februar 2022 04:00:39"
+    "updated": "Dienstag, 01. Februar 2022 22:00:35"
 }

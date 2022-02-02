@@ -82,6 +82,14 @@
                 "title": "Signale und Systeme 2"
             },
             {
+                "cnum": "136.020",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=136020&semester=2022S",
+                "sem": "2022S",
+                "title": "Statistische Physik I"
+            },
+            {
                 "cnum": "101.197",
                 "ects": "7.5",
                 "kind": "PR",
@@ -478,9 +486,33 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101186&semester=2022S",
                 "sem": "2022S",
                 "title": "AKMOD: Nervenmodelle"
+            },
+            {
+                "cnum": "101.445",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=101445&semester=2022S",
+                "sem": "2022S",
+                "title": "AKMOD: Mathematische Modellbildung in der Systemsimulation"
+            },
+            {
+                "cnum": "101.787",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=101787&semester=2022S",
+                "sem": "2022S",
+                "title": "AKMOD: Angewandte Modellbildung in der Systemsimulation"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Numerischen Mathematik (AKNUM)": [
+            {
+                "cnum": "101.403",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=101403&semester=2022S",
+                "sem": "2022S",
+                "title": "AKNUM Seminar aus Numerik"
+            },
             {
                 "cnum": "101.716",
                 "ects": "4.5",
@@ -591,14 +623,6 @@
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Wahrscheinlichkeitstheorie (AKWTH)": [
-            {
-                "cnum": "107.241",
-                "ects": "5.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=107241&semester=2022S",
-                "sem": "2022S",
-                "title": "Theorie stochastischer Prozesse"
-            },
             {
                 "cnum": "107.A21",
                 "ects": "4.5",
@@ -713,5 +737,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Mittwoch, 02. Februar 2022 04:00:36"
+    "updated": "Mittwoch, 02. Februar 2022 22:00:37"
 }

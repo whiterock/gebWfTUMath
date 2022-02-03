@@ -98,6 +98,14 @@
                 "title": "AKANW: Projektpraktikum aus Techn.Mathematik"
             },
             {
+                "cnum": "101.722",
+                "ects": "7.5",
+                "kind": "PR",
+                "link": "/course/courseDetails.xhtml?courseNr=101722&semester=2022S",
+                "sem": "2022S",
+                "title": "AKANW: Projektpraktikum aus Techn.Mathematik Maschinelles Lernen: Theorie und Anwendung"
+            },
+            {
                 "cnum": "101.152",
                 "ects": "3.0",
                 "kind": "VO",
@@ -194,6 +202,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101518&semester=2022S",
                 "sem": "2022S",
                 "title": "Variationsrechnung"
+            },
+            {
+                "cnum": "104.356",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104356&semester=2022S",
+                "sem": "2022S",
+                "title": "Differentialgeometrie"
+            },
+            {
+                "cnum": "104.358",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104358&semester=2022S",
+                "sem": "2022S",
+                "title": "Differentialgeometrie"
             },
             {
                 "cnum": "101.908",
@@ -400,6 +424,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=112040&semester=2022S",
                 "sem": "2022S",
                 "title": "AKGEO Computergest\u00fctzte Differentialgeometrie"
+            },
+            {
+                "cnum": "104.358",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104358&semester=2022S",
+                "sem": "2022S",
+                "title": "Differentialgeometrie"
+            },
+            {
+                "cnum": "104.356",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104356&semester=2022S",
+                "sem": "2022S",
+                "title": "Differentialgeometrie"
             },
             {
                 "cnum": "113.115",
@@ -737,5 +777,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Donnerstag, 03. Februar 2022 04:00:37"
+    "updated": "Donnerstag, 03. Februar 2022 22:00:37"
 }

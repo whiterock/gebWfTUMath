@@ -74,6 +74,14 @@
                 "title": "Mehrphasensysteme"
             },
             {
+                "cnum": "387.028",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=387028&semester=2022S",
+                "sem": "2022S",
+                "title": "Optische Systeme"
+            },
+            {
                 "cnum": "389.055",
                 "ects": "4.0",
                 "kind": "VU",
@@ -604,6 +612,14 @@
                 "title": "Bayes-Statistik"
             },
             {
+                "cnum": "105.725",
+                "ects": "5.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105725&semester=2022S",
+                "sem": "2022S",
+                "title": "Allgemeine Regressionsmodelle"
+            },
+            {
                 "cnum": "107.134",
                 "ects": "7.5",
                 "kind": "PR",
@@ -671,6 +687,14 @@
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Wahrscheinlichkeitstheorie (AKWTH)": [
+            {
+                "cnum": "107.939",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=107939&semester=2022S",
+                "sem": "2022S",
+                "title": "AKOR AKWTH Warteschlangentheorie"
+            },
             {
                 "cnum": "107.A21",
                 "ects": "4.5",
@@ -778,6 +802,30 @@
                 "link": "/course/courseDetails.xhtml?courseNr=110050&semester=2022S",
                 "sem": "2022S",
                 "title": "AKOR Nichtlineare Dynamische Systeme"
+            },
+            {
+                "cnum": "107.939",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=107939&semester=2022S",
+                "sem": "2022S",
+                "title": "AKOR AKWTH Warteschlangentheorie"
+            },
+            {
+                "cnum": "105.655",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105655&semester=2022S",
+                "sem": "2022S",
+                "title": "Angewandtes Operations Research"
+            },
+            {
+                "cnum": "105.654",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105654&semester=2022S",
+                "sem": "2022S",
+                "title": "Angewandtes Operations Research"
             }
         ]
     },
@@ -785,5 +833,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Montag, 07. Februar 2022 04:00:37"
+    "updated": "Montag, 07. Februar 2022 22:00:37"
 }

@@ -130,6 +130,16 @@
                 "title": "AKANW Dissipation and dispersion in nonlinear partial differential equations"
             }
         ],
+        "Ausgew\u00e4hlte Kapitel der Algebra (AKALG)": [
+            {
+                "cnum": "104.447",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104447&semester=2022S",
+                "sem": "2022S",
+                "title": "AKALG Kombinatorische Darstellungstheorie"
+            }
+        ],
         "Ausgew\u00e4hlte Kapitel der Analysis (AKANA)": [
             {
                 "cnum": "101.047",
@@ -456,6 +466,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=113115&semester=2022S",
                 "sem": "2022S",
                 "title": "AKGEO Kreis- und Kugelgeometrien"
+            },
+            {
+                "cnum": "104.403",
+                "ects": "5.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104403&semester=2022S",
+                "sem": "2022S",
+                "title": "Projektive Geometrie"
+            },
+            {
+                "cnum": "104.404",
+                "ects": "3.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104404&semester=2022S",
+                "sem": "2022S",
+                "title": "Projektive Geometrie"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Informatik (AKINF)": [
@@ -568,6 +594,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101789&semester=2022S",
                 "sem": "2022S",
                 "title": "AKNUM Reinforcement Learning"
+            },
+            {
+                "cnum": "101.532",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=101532&semester=2022S",
+                "sem": "2022S",
+                "title": "Numerik partieller Differentialgleichungen: instation\u00e4re Probleme"
+            },
+            {
+                "cnum": "101.509",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101509&semester=2022S",
+                "sem": "2022S",
+                "title": "Numerik partieller Differentialgleichungen: instation\u00e4re Probleme"
             },
             {
                 "cnum": "101.716",
@@ -833,5 +875,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Dienstag, 08. Februar 2022 04:00:38"
+    "updated": "Dienstag, 08. Februar 2022 22:00:38"
 }

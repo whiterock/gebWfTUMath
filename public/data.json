@@ -82,6 +82,14 @@
                 "title": "Optische Systeme"
             },
             {
+                "cnum": "376.060",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=376060&semester=2022S",
+                "sem": "2022S",
+                "title": "Regelungssysteme 2"
+            },
+            {
                 "cnum": "389.055",
                 "ects": "4.0",
                 "kind": "VU",
@@ -486,6 +494,14 @@
         ],
         "Ausgew\u00e4hlte Kapitel der Informatik (AKINF)": [
             {
+                "cnum": "185.A12",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=185A12&semester=2022S",
+                "sem": "2022S",
+                "title": "Logikprogrammierung und Constraints"
+            },
+            {
                 "cnum": "188.391",
                 "ects": "3.0",
                 "kind": "VU",
@@ -875,5 +891,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Mittwoch, 09. Februar 2022 04:00:37"
+    "updated": "Mittwoch, 09. Februar 2022 22:00:36"
 }

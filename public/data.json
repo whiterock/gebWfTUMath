@@ -166,6 +166,14 @@
                 "title": "AKANA Nichtlineare partielle Differentialgleichungen"
             },
             {
+                "cnum": "113.052",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=113052&semester=2022S",
+                "sem": "2022S",
+                "title": "AKANA Analytische Zahlentheorie"
+            },
+            {
                 "cnum": "101.334",
                 "ects": "4.5",
                 "kind": "VO",
@@ -244,6 +252,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104358&semester=2022S",
                 "sem": "2022S",
                 "title": "Differentialgeometrie"
+            },
+            {
+                "cnum": "104.580",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104580&semester=2022S",
+                "sem": "2022S",
+                "title": "AKANA AKGEO Curve shortening flow"
             },
             {
                 "cnum": "101.908",
@@ -494,6 +510,38 @@
         ],
         "Ausgew\u00e4hlte Kapitel der Informatik (AKINF)": [
             {
+                "cnum": "186.830",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=186830&semester=2022S",
+                "sem": "2022S",
+                "title": "Computergraphik"
+            },
+            {
+                "cnum": "186.831",
+                "ects": "6.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=186831&semester=2022S",
+                "sem": "2022S",
+                "title": "Computergraphik"
+            },
+            {
+                "cnum": "182.691",
+                "ects": "4.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=182691&semester=2022S",
+                "sem": "2022S",
+                "title": "Elektrotechnische Grundlagen"
+            },
+            {
+                "cnum": "182.692",
+                "ects": "3.5",
+                "kind": "LU",
+                "link": "/course/courseDetails.xhtml?courseNr=182692&semester=2022S",
+                "sem": "2022S",
+                "title": "Elektrotechnische Grundlagen"
+            },
+            {
                 "cnum": "185.A12",
                 "ects": "6.0",
                 "kind": "VU",
@@ -508,6 +556,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=188391&semester=2022S",
                 "sem": "2022S",
                 "title": "Objektorientierte Modellierung"
+            },
+            {
+                "cnum": "186.101",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=186101&semester=2022S",
+                "sem": "2022S",
+                "title": "Rendering"
+            },
+            {
+                "cnum": "184.749",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=184749&semester=2022S",
+                "sem": "2022S",
+                "title": "Semantik von Programmiersprachen"
             },
             {
                 "cnum": "184.067",
@@ -532,6 +596,30 @@
                 "link": "/course/courseDetails.xhtml?courseNr=108037&semester=2022S",
                 "sem": "2022S",
                 "title": "Theoretische Informatik, \u00dcbung"
+            },
+            {
+                "cnum": "182.702",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=182702&semester=2022S",
+                "sem": "2022S",
+                "title": "Distributed Algorithms"
+            },
+            {
+                "cnum": "184.774",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=184774&semester=2022S",
+                "sem": "2022S",
+                "title": "Automated Deduction"
+            },
+            {
+                "cnum": "185.291",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=185291&semester=2022S",
+                "sem": "2022S",
+                "title": "Formale Methoden der Informatik"
             },
             {
                 "cnum": "184.702",
@@ -574,6 +662,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104509&semester=2022S",
                 "sem": "2022S",
                 "title": "AKLOG: Die G\u00f6delschen Unvollst\u00e4ndigkeitss\u00e4tze"
+            },
+            {
+                "cnum": "192.085",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=192085&semester=2022S",
+                "sem": "2022S",
+                "title": "Non-classical Logics Nichtklassische Logiken"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Modellbildung und Simulation (AKMOD)": [
@@ -899,5 +995,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Freitag, 11. Februar 2022 04:00:38"
+    "updated": "Freitag, 11. Februar 2022 22:00:37"
 }

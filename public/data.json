@@ -628,6 +628,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=184702&semester=2022S",
                 "sem": "2022S",
                 "title": "Machine Learning"
+            },
+            {
+                "cnum": "183.286",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=183286&semester=2022S",
+                "sem": "2022S",
+                "title": "(Mobile) Network Services and Applications"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Logik (AKLOG)": [
@@ -995,5 +1003,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Samstag, 12. Februar 2022 04:00:38"
+    "updated": "Samstag, 12. Februar 2022 22:00:41"
 }

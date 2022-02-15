@@ -106,6 +106,14 @@
                 "title": "Statistische Physik I"
             },
             {
+                "cnum": "132.065",
+                "ects": "4.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=132065&semester=2022S",
+                "sem": "2022S",
+                "title": "Statistische Physik II"
+            },
+            {
                 "cnum": "101.197",
                 "ects": "7.5",
                 "kind": "PR",
@@ -1003,5 +1011,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Dienstag, 15. Februar 2022 04:00:38"
+    "updated": "Dienstag, 15. Februar 2022 22:00:39"
 }

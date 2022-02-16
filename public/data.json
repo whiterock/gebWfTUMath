@@ -50,6 +50,14 @@
                 "title": "Festk\u00f6rperphysik I"
             },
             {
+                "cnum": "136.002",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=136002&semester=2022S",
+                "sem": "2022S",
+                "title": "Geometrie und Gravitation I"
+            },
+            {
                 "cnum": "309.029",
                 "ects": "3.0",
                 "kind": "VO",
@@ -606,6 +614,14 @@
                 "title": "Theoretische Informatik, \u00dcbung"
             },
             {
+                "cnum": "185.203",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=185203&semester=2022S",
+                "sem": "2022S",
+                "title": "Theorie der Berechenbarkeit"
+            },
+            {
                 "cnum": "182.702",
                 "ects": "6.0",
                 "kind": "VU",
@@ -1011,5 +1027,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Mittwoch, 16. Februar 2022 04:00:38"
+    "updated": "Mittwoch, 16. Februar 2022 22:00:38"
 }

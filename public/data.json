@@ -162,6 +162,30 @@
                 "link": "/course/courseDetails.xhtml?courseNr=104447&semester=2022S",
                 "sem": "2022S",
                 "title": "AKALG Kombinatorische Darstellungstheorie"
+            },
+            {
+                "cnum": "104.501",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104501&semester=2022S",
+                "sem": "2022S",
+                "title": "AKALG Lie Algebren und Darstellungstheorie 1"
+            },
+            {
+                "cnum": "104.554",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=104554&semester=2022S",
+                "sem": "2022S",
+                "title": "AKALG Endliche Modelltheorie, UE"
+            },
+            {
+                "cnum": "104.558",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104558&semester=2022S",
+                "sem": "2022S",
+                "title": "AKALG Endliche Modelltheorie"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Analysis (AKANA)": [
@@ -688,12 +712,28 @@
                 "title": "AKLOG: Beweistheorie 2"
             },
             {
+                "cnum": "104.570",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=104570&semester=2022S",
+                "sem": "2022S",
+                "title": "AKLOG Forschungsseminar"
+            },
+            {
                 "cnum": "104.571",
                 "ects": "3.0",
                 "kind": "SE",
                 "link": "/course/courseDetails.xhtml?courseNr=104571&semester=2022S",
                 "sem": "2022S",
                 "title": "AKLOG Seminar aus Logik"
+            },
+            {
+                "cnum": "104.394",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=104394&semester=2022S",
+                "sem": "2022S",
+                "title": "Advanced Mathematical Logic"
             },
             {
                 "cnum": "104.508",
@@ -1043,5 +1083,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Freitag, 18. Februar 2022 04:00:38"
+    "updated": "Freitag, 18. Februar 2022 22:00:38"
 }

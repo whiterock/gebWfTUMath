@@ -316,6 +316,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101911&semester=2022S",
                 "sem": "2022S",
                 "title": "AKANA AKWTH Stochastische PDEs"
+            },
+            {
+                "cnum": "104.613",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104613&semester=2022S",
+                "sem": "2022S",
+                "title": "AKANA AKGEO Geometry of Optimal Transportation"
+            },
+            {
+                "cnum": "101.946",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101946&semester=2022S",
+                "sem": "2022S",
+                "title": "AKANA Mathematische Theorie der Elastizit\u00e4t"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Diskreten Mathematik (AKDIS)": [
@@ -488,6 +504,30 @@
                 "link": "/course/courseDetails.xhtml?courseNr=105636&semester=2022S",
                 "sem": "2022S",
                 "title": "Finanzm\u00e4rkte, Finanzintermediation und Kapitalanlage"
+            },
+            {
+                "cnum": "105.737",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105737&semester=2022S",
+                "sem": "2022S",
+                "title": "AKFVM R\u00fcckversicherung"
+            },
+            {
+                "cnum": "105.742",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105742&semester=2022S",
+                "sem": "2022S",
+                "title": "AKFVM Stochastische Analysis in Finanz- und Versicherungsmathematik 4"
+            },
+            {
+                "cnum": "105.743",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105743&semester=2022S",
+                "sem": "2022S",
+                "title": "AKFVM Stochastische Analysis in Finanz- und Versicherungsmathematik 4"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Geometrie (AKGEO)": [
@@ -506,6 +546,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=112040&semester=2022S",
                 "sem": "2022S",
                 "title": "AKGEO Computergest\u00fctzte Differentialgeometrie"
+            },
+            {
+                "cnum": "104.612",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=104612&semester=2022S",
+                "sem": "2022S",
+                "title": "AKGEO Seminar aus Geometrie - Angewandte Geometrie"
             },
             {
                 "cnum": "104.358",
@@ -530,6 +578,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=113115&semester=2022S",
                 "sem": "2022S",
                 "title": "AKGEO Kreis- und Kugelgeometrien"
+            },
+            {
+                "cnum": "104.614",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=104614&semester=2022S",
+                "sem": "2022S",
+                "title": "AKGEO AKDIS Konvexe Polytope"
             },
             {
                 "cnum": "104.403",
@@ -954,6 +1010,22 @@
                 "title": "AKOR AKWTH Warteschlangentheorie"
             },
             {
+                "cnum": "105.746",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105746&semester=2022S",
+                "sem": "2022S",
+                "title": "Theorie stochastischer Prozesse"
+            },
+            {
+                "cnum": "105.745",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=105745&semester=2022S",
+                "sem": "2022S",
+                "title": "Theorie stochastischer Prozesse"
+            },
+            {
                 "cnum": "107.A21",
                 "ects": "4.5",
                 "kind": "VO",
@@ -1091,5 +1163,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Dienstag, 22. Februar 2022 04:00:37"
+    "updated": "Dienstag, 22. Februar 2022 22:00:45"
 }

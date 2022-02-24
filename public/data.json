@@ -42,6 +42,14 @@
                 "title": "Atom-, Kern- und Teilchenphysik I"
             },
             {
+                "cnum": "136.015",
+                "ects": "10.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=136015&semester=2022S",
+                "sem": "2022S",
+                "title": "Elektrodynamik I"
+            },
+            {
                 "cnum": "138.017",
                 "ects": "3.0",
                 "kind": "VO",
@@ -898,6 +906,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101716&semester=2022S",
                 "sem": "2022S",
                 "title": "AKNUM Eigenwertprobleme"
+            },
+            {
+                "cnum": "101.953",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=101953&semester=2022S",
+                "sem": "2022S",
+                "title": "AKNUM Scientific Computing f\u00fcr Finite Elemente Methoden"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Statistik (AKSTA)": [
@@ -956,6 +972,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=105681&semester=2022S",
                 "sem": "2022S",
                 "title": "AKSTA Nichtparametrische Methoden der Statistik"
+            },
+            {
+                "cnum": "105.741",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105741&semester=2022S",
+                "sem": "2022S",
+                "title": "AKSTA Inferenzstatistik im gro\u00dfen Ma\u00dfstab"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Volkswirtschaftslehre (AKVWL)": [
@@ -1171,5 +1195,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Donnerstag, 24. Februar 2022 04:00:37"
+    "updated": "Donnerstag, 24. Februar 2022 22:00:38"
 }

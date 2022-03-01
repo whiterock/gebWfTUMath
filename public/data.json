@@ -340,6 +340,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101946&semester=2022S",
                 "sem": "2022S",
                 "title": "AKANA Mathematische Theorie der Elastizit\u00e4t"
+            },
+            {
+                "cnum": "101.958",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=101958&semester=2022S",
+                "sem": "2022S",
+                "title": "AKANA AKWTH Seminar aus Rough Paths Theorie und Differentialgleichungen"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Diskreten Mathematik (AKDIS)": [
@@ -914,6 +922,22 @@
                 "link": "/course/courseDetails.xhtml?courseNr=101953&semester=2022S",
                 "sem": "2022S",
                 "title": "AKNUM Scientific Computing f\u00fcr Finite Elemente Methoden"
+            },
+            {
+                "cnum": "101.941",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=101941&semester=2022S",
+                "sem": "2022S",
+                "title": "AKNUM, AKOR Numerical optimisation"
+            },
+            {
+                "cnum": "101.942",
+                "ects": "1.5",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=101942&semester=2022S",
+                "sem": "2022S",
+                "title": "AKNUM, AKOR Numerical optimisation"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Statistik (AKSTA)": [
@@ -1166,6 +1190,14 @@
                 "title": "AKOR Nichtlineare Dynamische Systeme"
             },
             {
+                "cnum": "105.747",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=105747&semester=2022S",
+                "sem": "2022S",
+                "title": "AKOR Seminar aus Operations Research Variational Analysis Dynamics and Operations Research"
+            },
+            {
                 "cnum": "107.939",
                 "ects": "3.0",
                 "kind": "VO",
@@ -1195,5 +1227,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Dienstag, 01. M\u00e4rz 2022 04:00:36"
+    "updated": "Dienstag, 01. M\u00e4rz 2022 22:00:37"
 }

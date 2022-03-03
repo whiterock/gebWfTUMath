@@ -164,6 +164,14 @@
         ],
         "Ausgew\u00e4hlte Kapitel der Algebra (AKALG)": [
             {
+                "cnum": "104.108",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=104108&semester=2022S",
+                "sem": "2022S",
+                "title": "AKALG: Forschungsseminar"
+            },
+            {
                 "cnum": "104.447",
                 "ects": "3.0",
                 "kind": "VO",
@@ -1227,5 +1235,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Donnerstag, 03. M\u00e4rz 2022 04:00:39"
+    "updated": "Donnerstag, 03. M\u00e4rz 2022 22:00:38"
 }

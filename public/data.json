@@ -538,6 +538,14 @@
                 "title": "AKFVM R\u00fcckversicherung"
             },
             {
+                "cnum": "105.738",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105738&semester=2022S",
+                "sem": "2022S",
+                "title": "AKFVM AKWTH Fractional deterministic and stochastic calculus"
+            },
+            {
                 "cnum": "105.742",
                 "ects": "3.0",
                 "kind": "VO",
@@ -1235,5 +1243,5 @@
         "2022S",
         "2021S"
     ],
-    "updated": "Donnerstag, 10. M\u00e4rz 2022 04:00:38"
+    "updated": "Donnerstag, 10. M\u00e4rz 2022 22:00:38"
 }

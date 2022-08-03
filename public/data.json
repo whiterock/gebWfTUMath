@@ -2,12 +2,36 @@
     "data": {
         "Ausgew\u00e4hlte Kapitel aus Naturwissenschaften und Technik (AKANW)": [
             {
+                "cnum": "101.542",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=101542&semester=2022W",
+                "sem": "2022W",
+                "title": "AKANW PDE Afternoon Seminar (VSM)"
+            },
+            {
                 "cnum": "136.026",
                 "ects": "3.0",
                 "kind": "VO",
                 "link": "/course/courseDetails.xhtml?courseNr=136026&semester=2022W",
                 "sem": "2022W",
                 "title": "Einf.i.d.Allgemeine Relativit\u00e4tstheorie"
+            },
+            {
+                "cnum": "136.018",
+                "ects": "4.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=136018&semester=2022W",
+                "sem": "2022W",
+                "title": "Elektrodynamik II"
+            },
+            {
+                "cnum": "136.047",
+                "ects": "2.0",
+                "kind": "UE",
+                "link": "/course/courseDetails.xhtml?courseNr=136047&semester=2022W",
+                "sem": "2022W",
+                "title": "Elektrodynamik II"
             },
             {
                 "cnum": "136.008",
@@ -34,14 +58,6 @@
                 "title": "H\u00f6here Festigkeitslehre"
             },
             {
-                "cnum": "304.524",
-                "ects": "4.5",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=304524&semester=2022W",
-                "sem": "2022W",
-                "title": "Str\u00f6mungslehre f\u00fcr TPH"
-            },
-            {
                 "cnum": "101.647",
                 "ects": "3.0",
                 "kind": "SE",
@@ -50,12 +66,20 @@
                 "title": "AKBIO: H\u00f6rtheorie"
             },
             {
-                "cnum": "101.542",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=101542&semester=2022W",
+                "cnum": "130.007",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=130007&semester=2022W",
                 "sem": "2022W",
-                "title": "AKANW PDE Afternoon Seminar (VSM)"
+                "title": "Technische Mechanik f\u00fcr TPH"
+            },
+            {
+                "cnum": "304.524",
+                "ects": "4.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=304524&semester=2022W",
+                "sem": "2022W",
+                "title": "Str\u00f6mungslehre f\u00fcr TPH"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Analysis (AKANA)": [
@@ -255,6 +279,14 @@
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Informatik (AKINF)": [
+            {
+                "cnum": "181.142",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=181142&semester=2022W",
+                "sem": "2022W",
+                "title": "Komplexit\u00e4tstheorie"
+            },
             {
                 "cnum": "184.702",
                 "ects": "4.5",
@@ -627,5 +659,5 @@
         "2022W",
         "2021W"
     ],
-    "updated": "Mittwoch, 03. August 2022 04:00:31"
+    "updated": "Mittwoch, 03. August 2022 22:00:29"
 }

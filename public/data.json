@@ -80,6 +80,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=304524&semester=2022W",
                 "sem": "2022W",
                 "title": "Str\u00f6mungslehre f\u00fcr TPH"
+            },
+            {
+                "cnum": "389.064",
+                "ects": "4.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=389064&semester=2022W",
+                "sem": "2022W",
+                "title": "Wellenausbreitung"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Analysis (AKANA)": [
@@ -126,6 +134,14 @@
         ],
         "Ausgew\u00e4hlte Kapitel der Finanz- und Versicherungsmathematik (AKFVM)": [
             {
+                "cnum": "105.643",
+                "ects": "3.0",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=105643&semester=2022W",
+                "sem": "2022W",
+                "title": "Aktuarielle Modellierung"
+            },
+            {
                 "cnum": "105.029",
                 "ects": "3.0",
                 "kind": "SE",
@@ -134,20 +150,12 @@
                 "title": "AKFVM Ausgew\u00e4hlte Kapitel der Finanz- und Versicherungsmathematik"
             },
             {
-                "cnum": "105.062",
-                "ects": "3.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=105062&semester=2022W",
-                "sem": "2022W",
-                "title": "AKFVM Versicherungswirtschaftslehre 2"
-            },
-            {
-                "cnum": "105.051",
+                "cnum": "105.673",
                 "ects": "3.0",
                 "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=105051&semester=2022W",
+                "link": "/course/courseDetails.xhtml?courseNr=105673&semester=2022W",
                 "sem": "2022W",
-                "title": "AKFVM Versicherungs- und Finanzmathematik"
+                "title": "AKOEK/AKFVM Ausgew\u00e4hlte Kapitel aus \u00d6konometrie, Finanz- und Versicherungsmathematik"
             },
             {
                 "cnum": "105.630",
@@ -166,28 +174,12 @@
                 "title": "AKFVM Seminar in Mathematical Finance and Probability"
             },
             {
-                "cnum": "105.673",
-                "ects": "3.0",
-                "kind": "SE",
-                "link": "/course/courseDetails.xhtml?courseNr=105673&semester=2022W",
-                "sem": "2022W",
-                "title": "AKOEK/AKFVM Ausgew\u00e4hlte Kapitel aus \u00d6konometrie, Finanz- und Versicherungsmathematik"
-            },
-            {
                 "cnum": "105.631",
                 "ects": "1.5",
                 "kind": "UE",
                 "link": "/course/courseDetails.xhtml?courseNr=105631&semester=2022W",
                 "sem": "2022W",
                 "title": "AKFVM Stochastische Analysis in Finanz- und Versicherungsmathematik 3"
-            },
-            {
-                "cnum": "105.639",
-                "ects": "4.0",
-                "kind": "VU",
-                "link": "/course/courseDetails.xhtml?courseNr=105639&semester=2022W",
-                "sem": "2022W",
-                "title": "Zinsstrukturmodelle und -derivate"
             },
             {
                 "cnum": "105.053",
@@ -246,14 +238,6 @@
                 "title": "Personenversicherungsmathematik"
             },
             {
-                "cnum": "105.643",
-                "ects": "3.0",
-                "kind": "VO",
-                "link": "/course/courseDetails.xhtml?courseNr=105643&semester=2022W",
-                "sem": "2022W",
-                "title": "Aktuarielle Modellierung"
-            },
-            {
                 "cnum": "105.048",
                 "ects": "4.5",
                 "kind": "VO",
@@ -276,6 +260,30 @@
                 "link": "/course/courseDetails.xhtml?courseNr=265003&semester=2022W",
                 "sem": "2022W",
                 "title": "Privates Wirtschaftsrecht"
+            },
+            {
+                "cnum": "105.051",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=105051&semester=2022W",
+                "sem": "2022W",
+                "title": "AKFVM Versicherungs- und Finanzmathematik"
+            },
+            {
+                "cnum": "105.062",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105062&semester=2022W",
+                "sem": "2022W",
+                "title": "AKFVM Versicherungswirtschaftslehre 2"
+            },
+            {
+                "cnum": "105.639",
+                "ects": "4.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=105639&semester=2022W",
+                "sem": "2022W",
+                "title": "Zinsstrukturmodelle und -derivate"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Informatik (AKINF)": [
@@ -659,5 +667,5 @@
         "2022W",
         "2021W"
     ],
-    "updated": "Donnerstag, 04. August 2022 04:00:32"
+    "updated": "Donnerstag, 04. August 2022 22:00:30"
 }

@@ -74,6 +74,14 @@
                 "title": "Technische Mechanik f\u00fcr TPH"
             },
             {
+                "cnum": "130.009",
+                "ects": "4.5",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=130009&semester=2022W",
+                "sem": "2022W",
+                "title": "Analytische Mechanik f\u00fcr TPH"
+            },
+            {
                 "cnum": "304.524",
                 "ects": "4.5",
                 "kind": "VO",
@@ -294,6 +302,14 @@
                 "link": "/course/courseDetails.xhtml?courseNr=181142&semester=2022W",
                 "sem": "2022W",
                 "title": "Komplexit\u00e4tstheorie"
+            },
+            {
+                "cnum": "185.A12",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=185A12&semester=2022W",
+                "sem": "2022W",
+                "title": "Logikprogrammierung und Constraints"
             },
             {
                 "cnum": "184.702",
@@ -614,6 +630,14 @@
                 "title": "AKOR Math. Drogenmodelle - Initiation, Pr\u00e4vention u. Therapie"
             },
             {
+                "cnum": "194.076",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=194076&semester=2022W",
+                "sem": "2022W",
+                "title": "Modeling and Simulation"
+            },
+            {
                 "cnum": "105.147",
                 "ects": "3.0",
                 "kind": "VO",
@@ -667,5 +691,5 @@
         "2022W",
         "2021W"
     ],
-    "updated": "Freitag, 05. August 2022 04:00:31"
+    "updated": "Freitag, 05. August 2022 22:00:31"
 }

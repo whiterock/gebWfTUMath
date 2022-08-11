@@ -66,6 +66,14 @@
                 "title": "AKBIO: H\u00f6rtheorie"
             },
             {
+                "cnum": "202.647",
+                "ects": "1.5",
+                "kind": "VO",
+                "link": "/course/courseDetails.xhtml?courseNr=202647&semester=2022W",
+                "sem": "2022W",
+                "title": "Mathematical Systems Biology"
+            },
+            {
                 "cnum": "130.007",
                 "ects": "4.5",
                 "kind": "VU",
@@ -296,6 +304,14 @@
         ],
         "Ausgew\u00e4hlte Kapitel der Informatik (AKINF)": [
             {
+                "cnum": "186.814",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=186814&semester=2022W",
+                "sem": "2022W",
+                "title": "Algorithmics"
+            },
+            {
                 "cnum": "181.142",
                 "ects": "3.0",
                 "kind": "VU",
@@ -318,6 +334,32 @@
                 "link": "/course/courseDetails.xhtml?courseNr=184702&semester=2022W",
                 "sem": "2022W",
                 "title": "Machine Learning"
+            },
+            {
+                "cnum": "186.182",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=186182&semester=2022W",
+                "sem": "2022W",
+                "title": "Seminar aus Algorithmik"
+            },
+            {
+                "cnum": "186.862",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=186862&semester=2022W",
+                "sem": "2022W",
+                "title": "Seminar aus Algorithmik Graphen und Geometrie"
+            }
+        ],
+        "Ausgew\u00e4hlte Kapitel der Logik (AKLOG)": [
+            {
+                "cnum": "118.051",
+                "ects": "3.0",
+                "kind": "SE",
+                "link": "/course/courseDetails.xhtml?courseNr=118051&semester=2022W",
+                "sem": "2022W",
+                "title": "AKLOG. Seminar aus Logik"
             }
         ],
         "Ausgew\u00e4hlte Kapitel der Modellbildung und Simulation (AKMOD)": [
@@ -691,5 +733,5 @@
         "2022W",
         "2021W"
     ],
-    "updated": "Donnerstag, 11. August 2022 04:00:31"
+    "updated": "Donnerstag, 11. August 2022 22:00:30"
 }

@@ -336,6 +336,14 @@
                 "title": "Machine Learning"
             },
             {
+                "cnum": "183.286",
+                "ects": "3.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=183286&semester=2022W",
+                "sem": "2022W",
+                "title": "(Mobile) Network Services and Applications"
+            },
+            {
                 "cnum": "186.182",
                 "ects": "3.0",
                 "kind": "SE",
@@ -741,5 +749,5 @@
         "2022W",
         "2021W"
     ],
-    "updated": "Dienstag, 16. August 2022 04:00:31"
+    "updated": "Dienstag, 16. August 2022 22:00:31"
 }

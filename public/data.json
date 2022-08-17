@@ -312,6 +312,14 @@
                 "title": "Algorithmics"
             },
             {
+                "cnum": "185.291",
+                "ects": "6.0",
+                "kind": "VU",
+                "link": "/course/courseDetails.xhtml?courseNr=185291&semester=2022W",
+                "sem": "2022W",
+                "title": "Formale Methoden der Informatik"
+            },
+            {
                 "cnum": "181.142",
                 "ects": "3.0",
                 "kind": "VU",
@@ -749,5 +757,5 @@
         "2022W",
         "2021W"
     ],
-    "updated": "Dienstag, 16. August 2022 22:00:31"
+    "updated": "Mittwoch, 17. August 2022 04:00:31"
 }
